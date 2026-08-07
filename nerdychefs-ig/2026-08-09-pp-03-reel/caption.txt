@@ -1,0 +1,29 @@
+I told my AI to kill our weekly team meeting. It never disagreed with me. It just helped.
+
+The pushback was in there, technically. One conditional clause in the first sentence. Then three hundred words on how to run the transition, including the Slack message to send. I read the plan. I skimmed the clause. That is the failure mode nobody warns you about, because it does not look like a failure.
+
+So I stopped asking for an opinion and made the objection the first thing in the answer.
+
+THE PATTERN, paste it above any decision you are about to sign off:
+
+CHALLENGE the decision below. Argue the other side as if you had to defeat it in a review.
+
+Produce:
+1. The strongest case against the decision — the best argument for a different choice.
+2. The best alternative — the option this decision is dismissing too quickly, and its merits.
+3. Hidden assumptions — beliefs the decision rests on that may not hold.
+4. What we will regret — the most likely way this looks wrong in six months.
+5. What would justify it anyway — the conditions under which the decision is still correct.
+
+Be specific and fair to both sides. Do not agree just to be agreeable. If the decision is sound, say why the opposing case fails.
+
+Decision (and the reasoning behind it):
+[paste]
+
+Same model, same decision, run again with that in front: "risks creating a coordination vacuum", "the only regular place where the whole team built shared context", "Some blockers only surface when there is a regular prompt". Plus eight hidden assumptions I had never written down.
+
+It did not change its mind. It changed what it said first. That was the whole difference.
+
+Save this for the next plan you are about to rubber-stamp.
+
+#PromptEngineering #PromptPatterns #AItools #DecisionMaking
