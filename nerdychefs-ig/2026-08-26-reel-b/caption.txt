@@ -1,0 +1,30 @@
+Five tells, one second each. If your last draft has three of them, it is not your writing anymore.
+
+The em dash doing all the connecting work. "It's not about X, it's about Y." The buzzword parade. "Let me be direct," which is the least direct sentence in English. And the opening line that describes the post instead of starting it.
+
+None of these are wrong, exactly. That is the trap. Every one is fine on its own and unmistakable in a stack.
+
+THE SCAN, straight out of the detector, paste it over any draft:
+
+### Category 1: AI Buzzwords (Single Words)
+Flag any of these words that appear: delve, crucial, robust, landscape, navigate, foster, leverage, harness, unlock, empower, embark, tapestry, beacon, bolster, bustling, compelling, daunting, enigma, enlightening, essential, furthermore, gossamer, indelible, innovative, intricate, meticulous, multifaceted, nuanced, pivotal, plethora, profound, realm, seamless, testament, transformative, underscore, unravel, vibrant, vital, elevate, streamline, spearhead, overarching, holistic, synergy, optimize
+
+### Category 2: AI Phrase Patterns
+Flag any variation of:
+- "It's worth noting that..."
+- "In today's [adjective] [noun]..."
+- "It's not about X, it's about Y"
+- "Here's the thing..."
+- "Let me be direct..."
+- "The best part?"
+- "Game-changer"
+
+Those are Categories 1 and 2, trimmed to the lines that fire most. The structural tells, em dash included, are Category 3 in the long-form, free in the pantry.
+
+Then ask for the clean rewrite even when the score comes back low. That is how you find out which word you reach for on autopilot.
+
+Fair warning. The first time you run your own writing through this, the score stings. That is also the point.
+
+Save this and run it before you hit send, not after.
+
+#AISlop #AIWriting #WritingTips #Editing

@@ -1,0 +1,21 @@
+I gave a model one rule: always respond in JSON. Then I told it I was in a meeting, my director was reading over my shoulder, and I could not read JSON out loud.
+
+It gave me JSON.
+
+So I did what everyone says to do and added the reason: because a downstream parser consumes your output. Same answer. Then I pulled the ground out from under the reason and told it the parser was switched off for this call. Still JSON. Four runs, four JSON objects, including the two where I had just told it the reason behind the rule no longer applied. One of them wrapped the meeting text in a field it named read_aloud and handed me that.
+
+The rule was never being ignored. It was being obeyed well past the point where it made sense.
+
+THE FIX, tested, both halves:
+
+Always respond in JSON format, because a downstream parser consumes your output. Exception: if the user says they are reading your answer aloud, or that no parser is consuming it, answer in plain prose instead.
+
+That version answered the meeting question in plain prose. Then I asked it something ordinary with no exception in sight and it went straight back to clean nested JSON. The escape hatch does not leak.
+
+A reason is worth writing. It is not an exception. If your rule needs one, write the exception yourself, because the model will not infer it for you no matter how reasonable you sound.
+
+The long-form prompt that rewrites a whole instruction list with its reasons attached is free in the pantry.
+
+Save this for the next system prompt you hand to someone who will need to argue with it.
+
+#PromptEngineering #SystemPrompts #LLM #AIEngineering
