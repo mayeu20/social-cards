@@ -1,0 +1,5 @@
+A 40 minute window in March exposed credentials in 434,000 CI/CD pipelines, two security firms report. The carrier was LiteLLM, an open source tool widely used in AI development, compromised upstream. Patching does not undo this one. Only credential rotation does.
+
+---
+
+Source: Ars Technica https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/
