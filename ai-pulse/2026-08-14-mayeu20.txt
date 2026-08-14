@@ -1,0 +1,18 @@
+Rails ran 8 coding agents over 21 real tasks in Basecamp's Writebook, 3 runs each. GPT-5.6 Luna solved 73% of them for 91 cents total. Claude Opus 5 reached 92% and cost 132 times more.
+
+Nineteen points, 132x the bill.
+
+Three from today's AI Pulse. Two more below.
+---
+OpenAI is previewing Ultrafast, a service tier running GPT-5.6 Sol at up to 750 output tokens per second on Cerebras hardware, up to 14 times its standard speed.
+
+Limited preview, select customers, no pricing disclosed. Latency stops being the reason an agent design stays timid.
+---
+Gemini 3.7 Flash is out, scoring 65.3% on DeepSWE v1.1 against 49.0% for 3.6 Flash.
+
+The part to note: $0.75 per million input and $3.75 output is an introductory price, good through the end of the year. Anyone budgeting agents past January is using a number that expires.
+---
+Sources:
+1. https://rubyonrails.org/2026/8/13/agents-on-rails-the-first-benchmark-report
+2. https://openai.com/index/previewing-ultrafast
+3. https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/

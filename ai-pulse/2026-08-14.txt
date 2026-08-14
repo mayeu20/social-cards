@@ -1,0 +1,5 @@
+OpenAI ranked enterprise customers by output tokens per active user. The top 10% now generate 8.3 times more than median firms, up from 2.6 times in January.
+
+OpenAI calls that a proxy for depth of use, not value. So which of your teams can show what the tokens bought?
+---
+Source: OpenAI https://openai.com/index/how-enterprises-put-ai-to-work/
