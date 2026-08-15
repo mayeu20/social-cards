@@ -1,0 +1,24 @@
+OpenAI cut GPT-5.6 Luna from $6 to $1.20 per million output tokens. Anthropic shipped Opus 5 at half the price of Fable 5 and called off a Sonnet 5 rise due in September.
+
+Chinese open models are setting the price now.
+
+AI Pulse, three today. Two more below.
+
+---
+
+Qwen3.8-27B is out under Apache 2.0. 27B dense, 262,144 token context natively and extensible to 1M, native image and video understanding, thinking on by default and switchable off per request.
+
+A 27B I can host beats a frontier API I have to meter.
+
+---
+
+Cursor Cloud Agents now boot into prebuilt environments instead of installing from scratch. Cursor says that is 3x faster to first token, and when a commit breaks the build, agents keep running on the last one that worked.
+
+Most agent latency is setup, not the model.
+
+---
+
+Sources:
+1. https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/
+2. https://huggingface.co/Qwen/Qwen3.8-27B
+3. https://cursor.com/changelog

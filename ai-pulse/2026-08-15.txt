@@ -1,0 +1,7 @@
+Google turned the visible sparkle on Gemini and Flow output into a setting users can switch off, kept only where law requires it. Invisible SynthID and C2PA metadata stay embedded either way.
+
+Provenance policies that rely on looking at the file now verify nothing.
+
+---
+
+Source: The Verge https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal
