@@ -1,0 +1,18 @@
+Claude now watermarks its text output, using a key to steer choices between interchangeable words. Nothing is appended, so there is nothing to strip. Anthropic says detection shows involvement, not authorship.
+
+AI Pulse: three today, two below.
+
+---
+
+153 autonomous runs across 18 frontier models on the nanoGPT optimizer speedrun. 8xH200 each, up to eight days, no internet access. Fable 5 came closest, 2,726 steps, closing 81.7% of the gap from baseline to the human record. None found a fundamentally new method.
+
+---
+
+DeepSeek open-sourced its agent harness under MIT on 13 August. It passed 124,000 GitHub stars in three days. The Issues tab is off and there is no pull request tab: feedback goes to Discussions and Discord. Open license, closed contribution.
+
+---
+
+Sources:
+1. https://www.anthropic.com/news/claude-text-watermark
+2. https://www.primeintellect.ai/blog/measuring-autonomous-research
+3. https://github.com/deepseek-ai/deepseek-harness

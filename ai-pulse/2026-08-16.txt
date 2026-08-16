@@ -1,0 +1,7 @@
+ChatGPT's Mac app can now turn activity across apps and websites into memories and a timeline. Initial availability excludes the EEA, Switzerland and the UK.
+
+Admins gate it before anyone can switch it on. That toggle is the governance decision, not the feature.
+
+---
+
+Source: OpenAI, ChatGPT and Codex changelog https://learn.chatgpt.com/docs/changelog
