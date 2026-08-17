@@ -1,0 +1,18 @@
+DeepSeek's pricing page now runs peak and off-peak rates. Off-peak is half of peak, and peak is only 01:00 to 04:00 and 06:00 to 10:00 UTC. Any batch job moved outside those seven hours costs half as much, for one scheduler change.
+
+Two more from today's pulse below.
+
+---
+
+Bloomberg reports Stripe is nearing a deal to buy OpenRouter for more than $7 billion. OpenRouter raised a $113M Series B in May at a reported $1.3B valuation. Stripe says it does not comment on rumors. The gateway that sells itself as lock-in insurance would have an owner.
+
+---
+
+Andrew Ng's AI Engineering Skills Map comes from an analysis of over 10,000 job postings plus expert interviews. The four skills: building and deploying AI apps, software engineering fundamentals, using coding agents, shaping the build. Not one of the four is a model name.
+
+---
+
+Sources:
+1. DeepSeek API docs https://api-docs.deepseek.com/quick_start/pricing
+2. TechCrunch https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
+3. The Batch https://www.deeplearning.ai/the-batch/issue-366/
