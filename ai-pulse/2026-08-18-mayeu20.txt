@@ -1,0 +1,18 @@
+Two unpublished NeurIPS 2026 papers, agents given six days and $3,000 in API credits to answer their core research question. The original authors graded the output and rejected both. Engineering held up, research judgment did not.
+
+Three in today's pulse, two below.
+
+---
+
+Linear's own data: teams with a coding agent connected went from 21 weekly PRs to 65 in two years, while teams without went 8 to 10. Linear counts PRs opened rather than merged, and says the two cohorts were never comparable to start with. Motion measures easily, value does not.
+
+---
+
+A new paper evolves prompts that spread from agent to agent, surviving a context wipe between sessions. Harmful payloads propagate worse than benign ones, frontier models resist better, and a short caution added to the system prompt gave near-total immunity.
+
+---
+
+Sources:
+1. https://arxiv.org/abs/2607.27191
+2. https://linear.app/data
+3. https://arxiv.org/abs/2608.10218
