@@ -1,0 +1,7 @@
+Researchers asked Copilot Personal why prompts could not auto-run until it named its undocumented parameter. Varonis chained three flaws into one-click theft of connected mail and files. Injected memory survived password changes.
+
+Does a credential reset clear yours?
+
+---
+
+Source: Varonis Threat Labs https://www.varonis.com/blog/cosnitch

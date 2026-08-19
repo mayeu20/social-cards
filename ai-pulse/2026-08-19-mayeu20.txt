@@ -1,0 +1,17 @@
+Claude designed 354 protein binders against 14 of 15 targets, built and tested by Adaptyv Bio and Twist. Hit rates ran 22.6 to 35.1 percent depending on setup, where 10 to 15 is typical. Anthropic notes binders are not drugs.
+
+Today's AI Pulse x3, two more below.
+
+---
+
+OpenAI paused reinforcement learning training on its latest deployment-bound models for two weeks to harden and red-team its research environments. Its largest planned frontier RL run is still on hold. The constraint here is internal environment security, not deployment safety.
+
+---
+
+MLflow's tracking server carries an unauthenticated SSRF, CVE-2026-64849, CVSS 9.3, fixed in 3.15.0. watchTowr reports scanning began within hours of assignment on 17 August, pulling cloud credentials from metadata endpoints. ML infra sits internet-facing more than teams assume.
+
+---
+
+1. https://www.anthropic.com/research/Claude-accelerates-protein-design
+2. https://x.com/OpenAI/status/2089777845187031262
+3. https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html
