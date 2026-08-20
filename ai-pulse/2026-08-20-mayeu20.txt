@@ -1,0 +1,17 @@
+Replit's Free Mode runs on GPT-5.6 Luna and spends no credits: up to 30 hours of chat a month on the $20 Core plan, limits resetting every 5 hours. Free still needs a subscription. The cheap model is the default now, the frontier one an opt-in.
+
+Three today. The other two below.
+
+---
+
+Physics of Agents simulated over 10,000 agent communities: 32 agents each, 8 rounds, four backbones. Group dynamics collapsed into three regimes, indifference, polarization, consensus. On checkable math, talking raised accuracy. On politics, three of four models drifted right.
+
+---
+
+OpenAI's CFO told an all-hands the company will be public in 2027, sooner if the business keeps inflecting. Slides put revenue run rate up 35% this quarter, enterprise up 50%, and 20 million weekly actives on coding and work products (CNBC). Coding is carrying the number.
+
+---
+
+1. https://replit.com/blog/replit-introduces-free-mode
+2. https://arxiv.org/abs/2608.16578
+3. https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html

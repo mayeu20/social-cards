@@ -1,0 +1,7 @@
+Guidelight graded five frontier labs on six AI control practices. None scored above 3 of 5 on any practice: Anthropic and OpenAI C+, Google D+, xAI D-, Meta F, on public evidence alone. Containment plans scored worst.
+
+What can you verify about your vendor in writing?
+
+---
+
+Source: Guidelight AI Standards https://guidelight.ai/blog/control-assessment-august-2026
