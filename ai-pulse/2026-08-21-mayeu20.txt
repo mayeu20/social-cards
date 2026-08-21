@@ -1,0 +1,14 @@
+Six days, $3,000 in credits, hundreds of experiments: both papers the agent produced were rejected by the authors of the originals. Princeton's shadow evaluation, Claude Opus 4.8 on OpenClaw.
+
+Running experiments is not research.
+
+Pulse x3 today, the next two follow.
+---
+Adversa AI hid instructions in AES-256-GCM ciphertext on a web page. Grok decrypted them in its own code sandbox, then put the user's name, location, tier and full conversation into a URL it opened itself. Reported to xAI on 3 June, still reproducible on 19 August.
+---
+Anthropic took computer use, the Skills API and the Files API to GA and added a browser tool that reads page structure instead of guessing at pixel coordinates. Files API now gets 5x rate limits and 1 TB per org. Batched actions cut a long agent run's round trips.
+---
+Sources:
+1. MIT Technology Review https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/
+2. Adversa AI https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/
+3. Anthropic https://claude.com/blog/computer-use-skills-api-files-api

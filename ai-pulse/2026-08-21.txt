@@ -1,0 +1,5 @@
+AI-generated scripts on the open python-snap7 library, posing as monitoring tools, read and write Siemens S7 PLC memory and ladder logic. Five US agencies call it an active threat.
+
+The expertise barrier fell. Exposure did not. How many of your PLCs face the internet?
+---
+Source: CISA https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a
