@@ -1,0 +1,18 @@
+Nvidia moved a 32,768-token KV cache from Qwen3 14B to 32B in 278 milliseconds. Re-prefilling it took nearly 7 seconds. The mapper is per-head ridge regression, no backprop, fit on 500 sequences. Two of six pairs still degraded sharply.
+
+AI Pulse x3. Two more below.
+
+---
+
+Slack Code drops Claude Code, Devin, Copilot and Vercel's agent into a channel where the whole team watches the diff. The bit I care about: agents inherit the invoking human's ACLs. Slack's interim CEO says there are no god permissions and no bot-level permissions.
+
+---
+
+Insilico Medicine's press release says its pulmonary fibrosis candidate was discovered by its generative AI platform. The patent names five humans as inventors. US law reads inventor as individual, and the patent office now treats AI as a tool like a calculator.
+
+---
+
+Sources:
+1. VentureBeat https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs
+2. VentureBeat https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat
+3. MIT Technology Review https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/
