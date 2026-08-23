@@ -1,0 +1,5 @@
+TrendAI found 14 npm packages that work as documented, then side-load a Linux implant. No install hook, so --ignore-scripts covers nothing and a transitive import is enough.
+
+The AI is on the operator console, not the payload: plain language to beacon commands.
+---
+Source: TrendAI Security https://www.trendaisecurity.com/en-us/resources-insights/trendai-security-blog/redc2-ai-powered-linux-implant

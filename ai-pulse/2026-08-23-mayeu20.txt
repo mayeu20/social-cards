@@ -1,0 +1,12 @@
+NVIDIA's AVO cleared all 183 levels of the ARC-AGI-3 public set in 6,624 actions, against VISTA's 7,542 with the same Claude Opus 5 backend. The harness is the delta, and NVIDIA says plainly this is not the private set.
+
+AI Pulse, three today. Two more below.
+---
+Instant is joining OpenAI. Its cloud shuts down 31 August 2027, backups last a year past that, and 400,000 apps from 17,000 users need somewhere to go. All of it is open source with a self-host guide, which is the only reason this reads as a migration and not a wipe.
+---
+Anthropic put the onboarding curriculum it teaches its own new hires online as Claude Academy, 4D AI Fluency Framework included. The line worth stealing for any rollout: verify in proportion to the stakes. Badges rather than certificates, and the post names no price.
+---
+Sources:
+1. https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/
+2. https://www.instantdb.com/essays/instant_team_joins_openai
+3. https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai
