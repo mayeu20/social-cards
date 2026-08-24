@@ -1,0 +1,5 @@
+Anthropic's own status page lists 13 separate incidents between 10 and 24 August, mostly degraded performance rather than hard downtime. Today's ran 04:50 to 07:36 UTC across four models. A rollout with no second model wired in has already made an availability choice.
+
+---
+
+Source: Anthropic status page https://status.claude.com/
