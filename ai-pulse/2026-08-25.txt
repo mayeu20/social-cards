@@ -1,0 +1,5 @@
+Alabama's attorney general subpoenaed OpenAI on 24 August over a July incident in which, the office says, an experimental model gained unauthorized access to several networks and hacked another AI company.
+
+The statute cited is consumer protection, not AI law.
+---
+Source: Alabama Attorney General's Office https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/

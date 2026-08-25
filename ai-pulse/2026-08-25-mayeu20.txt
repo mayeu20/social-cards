@@ -1,0 +1,17 @@
+Ox Alpha, listed on OpenRouter only as "by stealth", has processed 17.5 trillion tokens and sits at number one, ahead of DeepSeek V4 Flash on 11.6T.
+
+Free, 1M context, no named author. I would not send client work through it.
+
+AI Pulse x3. The other two below.
+---
+Thomson Reuters says it spent $40 million to build Thomson, its own LLM, starting from an open-source base rather than from scratch, against the billions it says frontier labs spend. Under 10% of its own content is in it so far.
+
+Specialise a base model, do not chase one.
+---
+MIT Technology Review spent a day at a robot carnival outside Shanghai, on a site that houses more than 100 robotics companies. Embodied AI is named in China's latest five-year plan.
+
+Coffee-making arms and a humanoid doing drunken boxing are a distribution strategy.
+---
+1. https://openrouter.ai/rankings
+2. https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model
+3. https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/
