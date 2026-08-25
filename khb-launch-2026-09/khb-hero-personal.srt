@@ -1,0 +1,56 @@
+1
+00:00:00,320 --> 00:00:02,279
+This is the Copilot settings blade.
+
+2
+00:00:02,279 --> 00:00:05,240
+One entry, screen and camera sharing.
+
+3
+00:00:06,210 --> 00:00:08,650
+It opens into two controls, not one.
+
+4
+00:00:09,604 --> 00:00:10,404
+Screens.
+
+5
+00:00:10,404 --> 00:00:11,404
+Cameras.
+
+6
+00:00:11,404 --> 00:00:14,124
+One row, two values behind it.
+
+7
+00:00:15,086 --> 00:00:19,286
+Screens offers all users, no users, or specific groups.
+
+8
+00:00:20,486 --> 00:00:21,566
+So does Cameras.
+
+9
+00:00:21,566 --> 00:00:22,646
+Independently.
+
+10
+00:00:25,116 --> 00:00:28,395
+Nothing was changed to film this, which is why Save is greyed.
+
+11
+00:00:30,850 --> 00:00:33,850
+Turn screens off and you have done half the job.
+
+12
+00:00:33,850 --> 00:00:36,610
+The camera is still on, and your note says handled.
+
+13
+00:00:37,580 --> 00:00:40,780
+An audit note that records one value carries neither.
+
+14
+00:00:40,780 --> 00:00:46,020
+Write down two, one per control, and check Save is greyed before you record either.
+

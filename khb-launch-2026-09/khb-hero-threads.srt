@@ -1,0 +1,64 @@
+1
+00:00:00,320 --> 00:00:02,400
+An auditor ticks one box for this setting.
+
+2
+00:00:02,400 --> 00:00:03,599
+There are two.
+
+3
+00:00:04,554 --> 00:00:06,513
+This is the Copilot settings blade.
+
+4
+00:00:06,513 --> 00:00:09,474
+One entry, screen and camera sharing.
+
+5
+00:00:10,444 --> 00:00:12,884
+It opens into two controls, not one.
+
+6
+00:00:13,838 --> 00:00:14,638
+Screens.
+
+7
+00:00:14,638 --> 00:00:15,638
+Cameras.
+
+8
+00:00:15,638 --> 00:00:18,358
+One row, two values behind it.
+
+9
+00:00:19,320 --> 00:00:23,520
+Screens offers all users, no users, or specific groups.
+
+10
+00:00:24,720 --> 00:00:25,800
+So does Cameras.
+
+11
+00:00:25,800 --> 00:00:26,880
+Independently.
+
+12
+00:00:29,350 --> 00:00:32,629
+Nothing was changed to film this, which is why Save is greyed.
+
+13
+00:00:35,084 --> 00:00:38,084
+Turn screens off and you have done half the job.
+
+14
+00:00:38,084 --> 00:00:40,844
+The camera is still on, and your note says handled.
+
+15
+00:00:41,814 --> 00:00:47,694
+The Copilot Hardening Baseline walks the Copilot settings blade one entry at a time, this one included.
+
+16
+00:00:47,694 --> 00:00:48,694
+Link below.
+
