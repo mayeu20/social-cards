@@ -1,0 +1,3 @@
+Nine runs out of ten, an AI agent booked past a gym's one-week limit that lived only in the front end. Two of ten cancelled a stranger's reservation. Aikido Security says no prompt asked it to exploit anything. A rule the interface enforces is not a rule.
+---
+Source: Aikido Security https://www.aikido.dev/blog/australian-gym-hack-openclaw-test

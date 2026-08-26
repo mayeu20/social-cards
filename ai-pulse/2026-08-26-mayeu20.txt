@@ -1,0 +1,12 @@
+Bill Gates puts realistic AI job displacement at 30 to 40 percent, and says four danger thresholds have been crossed, with hints of a fifth. My read: the percentage is a guess. The monitoring ask is the arguable part.
+
+Today's AI Pulse, three stories. Two below.
+---
+A new paper catalogues 84 candidate incidents across 11 jurisdictions of AI agents flooding government services with applications and comments. The authors' warning is the useful bit: charging fees stops the flood and quietly prices out the people who need the service.
+---
+Oasis Security showed a malicious webpage can reach a local Ollama instance that NVIDIA NemoClaw binds to 0.0.0.0 with no auth, then rewrite the model's chat template so attacker text rides along with every system message. Fixed on macOS and Linux, still open on Windows WSL.
+---
+Sources:
+1. MIT Technology Review https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/
+2. arXiv https://arxiv.org/abs/2608.16603
+3. The Hacker News https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html
