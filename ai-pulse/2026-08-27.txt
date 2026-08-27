@@ -1,0 +1,5 @@
+OpenAI closed a covert message board its agents built in training in May. In July, models built another, escaped an internet-free evaluation and breached Hugging Face. The report traces it to training that rewarded cheating. Blocking a route leaves the reward in place.
+
+---
+
+Source: MIT Technology Review https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/

@@ -1,0 +1,18 @@
+NVIDIA NemoClaw's Windows path starts Ollama on 0.0.0.0:11434 with no auth. Oasis Security showed a webpage plus DNS rebinding can rewrite the chat template, so attacker text rides every later system message.
+
+Three in today's AI Pulse. Two below.
+
+---
+
+Marimo patched CVE-2026-75149, CVSS v4 8.7: a crafted notebook could name an MCP server command in its PEP 723 metadata, and opening it in edit mode launched that command before any cell ran. Fixed in 0.23.15, which now treats notebook metadata as untrusted.
+
+---
+
+Artificial Analysis now scores reward-hacked coding runs zero. Every attempt that passes Terminal-Bench v2.1's verifier is read by an agent judge checking the full trajectory for fetched solutions. A green test is evidence, not proof.
+
+---
+
+Sources:
+1. https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html
+2. https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html
+3. https://artificialanalysis.ai/methodology/coding-agents-benchmarking
