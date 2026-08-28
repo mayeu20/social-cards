@@ -1,0 +1,16 @@
+Meta's internal code changes were up 220 percent year over year. Changes that actually reached users were up 36 percent. Reuters got the internal posts.
+
+Activity is the easiest thing for an agent to generate.
+
+Today's AI Pulse x3, two more below.
+---
+ServiceNow patched three CVSS 10.0 flaws in its AI Platform: unauthenticated code injection in the GraphQL Composite Data API, broken access control in image upload, and SQL injection in a dynamic ORDER BY clause. Hosted instances were updated. Self-hosted must apply it.
+---
+Tencent put Hy4-preview on Hugging Face under Apache 2.0: 770B parameters, 49B active, 1M context. The card concedes the model spends longer than necessary reasoning and over-verifies its work.
+
+A vendor documenting its model's bad habit is rarer than the weights.
+---
+Sources:
+1. https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/
+2. https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html
+3. https://huggingface.co/tencent/Hy4-preview

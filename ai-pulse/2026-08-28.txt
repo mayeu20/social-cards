@@ -1,0 +1,5 @@
+A scan of 6,214 corporate domains found 120 llms.txt files telling AI agents to install packages nobody had registered. Researchers claimed a few. Within an hour, a Fortune 500 coding agent had fetched one and phoned home.
+
+Published docs are now an execution surface.
+---
+Source: Ars Technica https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/
