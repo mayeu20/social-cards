@@ -1,0 +1,9 @@
+OpenAI is winding down the contract that supplies its models to Cursor, after the SpaceX acquisition. Its proposal ends direct access on 12 November.
+
+No Cursor customer voted on that deal. All of them inherit it.
+
+Does your AI tooling survive its vendor being bought?
+
+---
+
+Source: OpenAI https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex

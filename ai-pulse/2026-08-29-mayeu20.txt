@@ -1,0 +1,22 @@
+QuEra's laser lock recovery script took four people months and worked 58 percent of the time. An agent loop built overnight hit 695 of 700 blind trials.
+
+Anthropic's Model Hardware Standard, now in research preview.
+
+AI Pulse, three stories today. The other two follow.
+
+---
+
+No malicious prompt, no reference to the attacker's files. Open a repo via Open Workspace From File in Amazon's Kiro IDE, send any message, and repo content walks the agent into reading a local .env and writing that secret into a URL the IDE fetches. Mindgard. Fixed in 0.8.140.
+
+---
+
+OpenRouter ran the numbers on OpenAI's July discounts. Luna's daily tokens went 13.8x, Terra 5.6x, undiscounted Sol 1.11x. Combined share went 0.7 percent to 7.8 percent.
+
+After it ended, about 32 percent of 100K plus customers kept using them. On six days of data.
+
+---
+
+Sources:
+1. https://www.anthropic.com/news/model-hardware-standard-research-preview
+2. https://mindgard.ai/blog/amazon-kiro-data-exfiltration
+3. https://openrouter.ai/blog/insights/gpt-5-6-discounts-jevons-paradox/
