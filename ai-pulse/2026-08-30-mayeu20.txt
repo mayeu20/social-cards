@@ -1,0 +1,12 @@
+Claude, run as an autonomous alignment researcher, outscored 28 human safety researchers given up to eight hours. Anthropic notes the humans could not iterate, so it is not a clean comparison. The caveat is the honest part.
+
+Three stories in today's AI Pulse. Two below.
+---
+Google is auto expanding AI Overviews into a full AI Mode answer for some queries, with the Ask anything box already open and no Show more click. A Google spokesperson confirmed it. The ten blue links move down the page. Plan for referral traffic that keeps shrinking.
+---
+More than 100 companies, among them OpenAI, Anthropic, Google, Microsoft, CrowdStrike and Okta, signed an open letter on 27 August warning that AI enabled cyber attacks will get far more widespread, and asking governments to fund defense for hospitals and water plants.
+---
+Sources:
+1. https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures
+2. https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html
+3. https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/
