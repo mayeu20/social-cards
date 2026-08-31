@@ -1,0 +1,11 @@
+Praxist reports 49 gold medals on MLE-bench's 75 tasks against 34 for Claude Code on Opus 4.8, at $3,054 of spend versus $38,370. Their own paper, so it is a claim, but a twelfth of the cost is the part I want reproduced.
+
+AI Pulse, x3. Stories two and three follow.
+---
+Apple shipped the Mac Studio refresh on 25 August with up to 512GB of unified memory and Thunderbolt 5 clustering, pitched at running frontier-class open-weight models on device. Apple's own numbers. The 512GB configuration does not arrive until late October, which is the catch.
+---
+xAI shipped an X connector for Grok Bot on 29 August: search posts, read your timeline, check mentions. It provisions a developer account for you, and paid users get free X API credits. Read paths only in the announcement, no posting. First version, per xAI.
+---
+1. https://arxiv.org/abs/2608.25955
+2. https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
+3. https://x.ai/news/grok-bot-and-x
