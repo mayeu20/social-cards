@@ -1,0 +1,5 @@
+A stolen API key burned about $600,000 in model credits over three weeks before anyone noticed. METR says it sat on a researcher's personal instance, behind an app whose authentication silently failed open.
+
+Donated credits raise no invoice, so nothing flagged it.
+---
+Source: METR https://metr.org/blog/2026-08-31-security-update/

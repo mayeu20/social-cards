@@ -1,0 +1,18 @@
+Ransomware operators ran Cursor Agent against 10 targets between April 8 and May 21, per Gambit Security. Most commands failed first time, so the operator kept refining them.
+
+Attack tooling inherits the same retry loop we do.
+
+AI Pulse, three today. Two below.
+---
+ESET found UAC-0099 hiding a prompt injection inside a comment in a malicious VBS script, text picked to trip an analyzer's safety guardrails and stall triage before it reaches the payload.
+
+No success rate was reported. The technique is documented, the efficacy is not.
+---
+OpenAI says ChatGPT Ads has reached a $1 billion annualized revenue run rate and is expanding globally, framing it as what funds broader free access.
+
+Self-reported, no methodology attached. I want to see what the free tier means once ads are load-bearing.
+---
+Sources:
+1. https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html
+2. https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html
+3. https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
