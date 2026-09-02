@@ -1,0 +1,22 @@
+$535.74 and 8 hours 32 minutes of Claude time finished the port of a pre-auth RCE exploit between two WAGO PLC models, ARM shellcode on live hardware. Forescout's hedge: a skilled researcher might have been faster alone.
+
+AI Pulse x3 for today. The next two follow.
+
+---
+
+Cache reads on Claude Fable 5.1 now cost $0.25 per million tokens, down 75%, while input and output stay at $10 and $50. Anthropic estimates 25% lower cost on typical workloads and up to 45% on agentic ones.
+
+If your loop rereads a big context every turn, that is where it lands.
+
+---
+
+OpenClaw 2026.8.1 lets an agent ask for a credential through a masked prompt, so the value never enters the chat or the model context, with an opt-in proxy limiting which destinations a secret can be substituted into.
+
+This is the primitive I keep hand-rolling badly.
+
+---
+
+Sources:
+1. https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html
+2. https://www.anthropic.com/claude-fable-and-mythos-5-1
+3. https://github.com/openclaw/openclaw/releases/tag/v2026.8.1

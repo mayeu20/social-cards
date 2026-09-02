@@ -1,0 +1,7 @@
+Anthropic's enterprise safeguards store Claude logs in infrastructure the customer controls, with review on the customer's side. Rollout starts later this fall.
+
+The premise: misuse detection needs retained data. Zero retention pays for privacy in detection.
+
+---
+
+Source: Anthropic https://www.anthropic.com/news/enterprise-frontier-safeguards
