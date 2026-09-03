@@ -1,0 +1,18 @@
+OpenAI designated Astra Critical for cybersecurity under its Preparedness Framework, the first model at that level. It reports 100% on ExploitBench, two zero-days used in a chain.
+
+Advanced cyber access is gated to alpha testers.
+
+Pulse x3 today. Two and three below.
+---
+From FY27 Microsoft reports two segments instead of three, and the one holding the Microsoft Cloud is named Agents and Infra. Azure is restated to $29.42B for the June quarter, up 42%.
+
+When the segment name changes, the roadmap already did.
+---
+Google Pics is rolling out at pics.new and inside Docs and Slides, built on Nano Banana. It edits one object without touching the rest, and translates text inside an image without changing the font.
+
+The in-image translation is the part I would actually use.
+---
+Sources:
+1. https://openai.com/index/path-to-astra/
+2. https://www.sec.gov/Archives/edgar/data/0000789019/000119312526380280/d291965dex991.htm
+3. https://blog.google/products-and-platforms/products/workspace/google-pics/

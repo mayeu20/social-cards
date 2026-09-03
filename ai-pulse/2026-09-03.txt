@@ -1,0 +1,5 @@
+Eight findings across seven command-line coding agents, four unpatched: a zipped repo carries a git setting that names a program, and the agent's startup git call runs it as the user, outside the sandbox, with no approval prompt.
+
+A received repo is executable input.
+---
+Source: Manifold Security https://www.manifold.security/blog/ai-coding-agents-git-hijack
