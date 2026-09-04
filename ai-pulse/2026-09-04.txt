@@ -1,0 +1,3 @@
+80% then 82% of professional engineers reported spending less time writing code, across two rounds of a study in 28 countries. Reviewing code was the only activity that rose. Adding assistants without adding review capacity moves the bottleneck rather than clearing it.
+---
+Source: arXiv (Vella and Blincoe, University of Auckland) https://arxiv.org/html/2605.23135

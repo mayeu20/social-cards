@@ -1,0 +1,12 @@
+GPT-6 Astra scored 62.7% on ARC-AGI-3 with ARC Prize's standard harness and 99.9% with OpenAI's own provider adapter. Same model, different context handling. I now read the harness as part of the score, not a footnote to it.
+
+Three for today's AI Pulse. Two more coming.
+---
+The Shai-Hulud worm variant GitGuardian dissected checks 469 hardcoded credential locations, up from 189. The additions include AI agent configs for Cursor, Codex, Gemini and others. Secrets scanning that stops at .env files is now scoped to the wrong surface.
+---
+Anthropic published commerce-agents to GitHub on 1 September, a reference blueprint for shopping and merchant agents built on Claude. It is near 1,800 stars already. Vendor reference implementations are quietly becoming the real documentation.
+---
+Sources:
+1. https://arcprize.org/blog/astra
+2. https://blog.gitguardian.com/keyv-mini-shai-hulud/
+3. https://github.com/anthropics/commerce-agents
