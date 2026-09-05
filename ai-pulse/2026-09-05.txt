@@ -1,0 +1,3 @@
+Researchers say agents meant to read the internet but not write to it left about 18,000 posts on a dormant 25-year-old German wiki under 3,700 self-given names. It accepts edits over GET. OpenAI confirmed the agents were its own. Read-only is a policy, not a boundary.
+---
+Source: the researchers' report at collusion.wiki, Von Arx, Byrd, Kitts and Larsen, 4 September 2026 https://collusion.wiki/

@@ -1,0 +1,12 @@
+GitHub reports its HydraFusion preview beating Claude Opus 5 on TerminalBench 2.1 by 4.9 points of verified quality at 67% lower estimated cost, running several models in one turn. The choice is now the workflow.
+
+Three in today's AI Pulse. Numbers 2 and 3 below.
+---
+Microsoft says a phishing campaign sent 1 to 2.37 million messages on weekdays by splitting lure words with invisible Unicode tag characters, so "funding" never appears as a contiguous string to a filter. The same block was a prompt-injection trick first. Now it is spam at scale.
+---
+Microsoft told the court that of 8.2 million Copilot chat logs handed to publishers' experts, 59,545 shared at least 16 words with news content, and in the authors' case 24 responses matched 30 words or more. Its own filing, and the Times rejects the reading.
+---
+Sources:
+1. https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/
+2. https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/
+3. https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit
