@@ -1,0 +1,5 @@
+Three of the seven counts in the Seattle Times and Newsday suit against OpenAI and Microsoft, filed 4 September, are trademark dilution, not copyright. The alleged harm: output attributing fabricated content to their brands. Who checks what a model says under your name?
+
+---
+
+Source: the complaint as filed, Case 1:26-cv-07644 (S.D.N.Y.), via CourtListener https://storage.courtlistener.com/recap/gov.uscourts.nysd.672142/gov.uscourts.nysd.672142.1.0.pdf

@@ -1,0 +1,23 @@
+61% of service firms told the New York Fed they use AI this year, up from 40% last year. The median share of their workers actually using it is 17%.
+
+Adoption is the headline number. Depth is the real one.
+
+Today's AI Pulse x3. Stories 2 and 3 below.
+
+---
+
+Google's Chrome Security team says Gemini 3.8 Flash Cyber produced 2.6x more correct patches to Chrome vulnerabilities than much larger commercial models. Google is not selling it: looser cyber mitigations mean access runs by application through the new Fairwind Program.
+
+---
+
+Artificial Analysis Intelligence Index v4.2 now weights Agents at 30%, level with General and above Coding at 20%. The heaviest single test is AA-Briefcase, 91 knowledge-work tasks across 4 scenarios built by industry experts. The leaderboard moved toward the work.
+
+---
+
+Sources:
+
+1. https://libertystreeteconomics.newyorkfed.org/2026/09/businesses-are-using-ai-to-transform-work-not-cut-jobs/
+
+2. https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
+
+3. https://artificialanalysis.ai/methodology/intelligence-benchmarking
