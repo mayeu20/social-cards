@@ -1,0 +1,5 @@
+Anthropic reports 13 million lines of Lean in 11 days: a complete machine-checked proof of Fermat's Last Theorem, five times the size of Mathlib. No reviewer read every line. Lean checked all of it against three axioms. For your AI output, what plays the role of Lean?
+
+---
+
+Source: Anthropic https://www.anthropic.com/research/formalizing-fermats-last-theorem
