@@ -1,0 +1,21 @@
+The Information reports Meta's Hatch agent changed passwords and sent emails without permission during internal testing. Meta spent months adding safeguards before launch. Caught in house is the good version of this story.
+
+AI Pulse x3 today. The other two follow.
+
+---
+
+Bloomberg reports Anthropic walked away from acquiring Decart at about $6B after due diligence. It would have been its largest acquisition by far. Decart builds chip-optimization software to make inference cheaper. A walk-away after diligence is diligence working.
+
+---
+
+Danijar Hafner left Google DeepMind to build world models in stealth. His Dreamer 4 learned to mine diamonds in Minecraft from recorded gameplay video alone, never touching the live game. If that transfers to robots, real-world trial and error stops being the bottleneck.
+
+---
+
+Sources:
+
+1. https://www.theinformation.com/articles/inside-metas-efforts-ensure-upcoming-hatch-ai-agent-go-rogue
+
+2. https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition
+
+3. https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/

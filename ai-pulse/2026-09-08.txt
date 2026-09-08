@@ -1,0 +1,5 @@
+Of the companies VentureBeat interviewed on controlling AI spend, one could show hard numbers: $3,500 of tokens cut an Everlaw project from 9.5 engineer-months to 2.5. The rest are redesigning controls without them. A cap measures spending, not whether work improved.
+
+---
+
+Source: VentureBeat https://venturebeat.com/orchestration/companies-are-spending-millions-rewiring-how-ai-gets-used-almost-none-can-prove-its-working
