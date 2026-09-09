@@ -1,0 +1,5 @@
+Check Point relayed a victim's Gmail data to a second ChatGPT account. Neither container reached the internet or each other; both reached one internal package server whose file metadata was shared. OpenAI decommissioned it. What service do yours both touch?
+
+---
+
+Source: Check Point Research https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/
