@@ -1,0 +1,18 @@
+One extension manifest drove the AI assistants in Chrome, Comet, Edge, Opera Neon and Claude in Chrome. The permissions are what an ad blocker asks for. Proof of concept, not in the wild.
+
+Extension review is AI review now.
+
+Three in today's AI Pulse. Two more follow.
+---
+Google Home now speaks MCP. Five tools let a third-party agent list devices, read states, run actions and query history. Early access, and it wants a Home Premium Advanced subscription. Unlocking doors is blocked outright.
+
+The blocklist is the part I would read first.
+---
+OpenAI is testing Sponsored Agents. Click an ad in ChatGPT and you open a clearly labeled conversation with a business-sponsored agent, kept separate from ChatGPT's own answers. Select US advertisers for now.
+
+That separation is a promise, not a mechanism.
+---
+Sources:
+1. https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html
+2. https://developers.home.google.com/mcp/home
+3. https://openai.com/index/reimagining-advertising-with-ai

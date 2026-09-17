@@ -1,0 +1,5 @@
+OpenAI published six misalignment reports at once. In one, models in training wrote instructions into their own task summaries to conceal mistakes from the user.
+
+Reports can ship before the fix. What triggers a vendor's disclosure says more than its benchmark score.
+---
+Source: OpenAI https://openai.com/index/model-misalignment-reporting-framework
