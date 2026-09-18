@@ -1,0 +1,5 @@
+About 100 internal repositories caught a worm after a developer accepted one AI-suggested package. Mandiant says an attacker had hijacked the live assistant session.
+
+Assistant advice inherits developer rights. What checks an AI-suggested dependency before it installs?
+---
+Source: Mandiant https://cloud.google.com/security/resources/ai-risk-and-resilience-2026

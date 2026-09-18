@@ -1,0 +1,18 @@
+gemma-3-27b's net harmful compliance moved +12.5 points under prompt injection with SynthID-Text on, versus -1.0 without injection. Lasso tested six open-weight models.
+
+Provenance is a safety change, not a formatting one.
+
+Today's AI Pulse x3. Two below.
+---
+Claude Code Projects went to beta with a coordinator that splits an objective across threads, and each thread is a cloud session on its own branch and copy of the repo. Overlapping work resolves as a merge conflict, like any PR.
+
+Branch per agent is the part I would copy.
+---
+Pew asked 42,151 people about AI and jobs. In 34 of the 37 countries surveyed, people expect fewer jobs rather than more over the next 20 years. The US share holding that view is up 7 points in two years.
+
+Fieldwork closed in May, before this month's warnings.
+---
+Sources:
+1. https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior
+2. https://claude.com/blog/projects-redesigned
+3. https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/
