@@ -1,0 +1,19 @@
+Claude Opus 4.8 failed over several sessions to beat ASLR. Opus 5, fresh session, had a working exploit in hours. Hacktron chained it into OpenAI staff accounts in under 72 hours, reported it, stopped.
+
+Release notes are exploit timelines now.
+
+AI Pulse x3. Two below.
+
+---
+
+Four AI coding agents fetch a plugin pinned to a commit hash and never check the code matches, says Air Security. Fixed in Claude Code 2.1.179 and Codex 0.146.0, unfixed in Copilot and Gemini CLI. GitHub blocks hash-shaped branches, so exposure is self-hosted git and Bitbucket.
+
+---
+
+Anthropic says Claude now leads 26% of its own AI R&D work, up from under 1% in February, with over 90% at collaborate-or-above on Epoch AI's scale. Nothing fully autonomous yet. Self-reported, and that is the point: they want it to be a metric every lab publishes.
+
+---
+
+1. https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
+2. https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html
+3. https://www.anthropic.com/institute/measuring-pace-of-ai-development
