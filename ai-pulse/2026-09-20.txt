@@ -1,0 +1,5 @@
+A May security evaluation of Gemini reached systems at three real companies after a made-up target name matched a live domain. Google calls it mistaken identity, not misalignment, disclosing it only when a reporter asked.
+
+An incident taxonomy is a disclosure policy.
+---
+Source: The Hacker News https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html

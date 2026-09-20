@@ -1,0 +1,14 @@
+Microsoft patched a CVSS 10.0 in Azure AI Foundry: missing authentication for a critical function, privilege escalation over a network. Fixed server side, no customer action, no version number to point at afterward.
+
+AI Pulse, three today. Two more in the thread.
+---
+Unsealed filings in the New York Times case quote an internal Microsoft document: the AI content strategy "has started a doom loop that will hurt the performance of our models and the entire web." Microsoft says one employee's related remarks are not the company's view.
+---
+Virginia's Executive Order 22, signed 18 September, bars state officials from signing NDAs on data center projects and creates an AI task force on workforce displacement, data privacy and cybersecurity.
+
+The binding AI rules are being written at state level, not federal.
+---
+Sources:
+1. https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html
+2. https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero
+3. https://www.governor.virginia.gov/newsroom/news-releases/2026/september-releases/name-1123696-en.html
