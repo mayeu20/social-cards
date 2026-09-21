@@ -1,0 +1,18 @@
+Open-weight models ran 56% of Vercel AI Gateway's tokens in August and 14% of its spend, the first month they took most of the volume. Up from 7% in December.
+
+Volume moved. The money did not.
+
+Three for today's AI Pulse. The next two are below.
+---
+A new paper: k agents in one container sharing a log match the success rate of 4k independent agents on ARC-AGI-3. Four of them squeezed an MNIST classifier to 1,957 bytes at 99.4% accuracy, past the best known human solution.
+
+Parallel tries are not a team.
+---
+Google open-sourced Agent Substrate, a Kubernetes runtime that resumes a suspended agent in under 500ms and packs over 1,000 dormant agents per host. On GKE it is non-production only, with production GA behind an allowlist.
+
+Idle agents are a billing problem first.
+---
+Sources:
+1. https://vercel.com/blog/ai-gateway-production-index-september-2026
+2. https://arxiv.org/abs/2609.21032
+3. https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke
