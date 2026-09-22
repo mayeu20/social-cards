@@ -1,0 +1,20 @@
+An undocumented preference, endo_voyager_dictation_endpoint, sets where Meta's Muse sends dictation, and any process running as the signed-in user can change it.
+
+Broad app consent is the blast radius of a local compromise.
+
+Three in today's AI Pulse. Two more beneath.
+
+---
+
+Aikido shipped Altar-1 on 21 September, a 328 GB prune of GLM-5.3 that serves on four H200s. It drops 88 of 256 routed experts and still averages 60.4% recall on their 32-CVE benchmark against the parent's 65.6%. Security review that never leaves the building.
+
+---
+
+California signed seven data center bills on 21 September. AB 2383 puts new large load customers on separate generation and transmission tariffs from 1 January 2027, and the CPUC gets a distinct rate class for data centers. Compute siting is turning into a tariff question.
+
+---
+
+Sources:
+1. https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html
+2. https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security
+3. https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills

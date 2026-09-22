@@ -1,0 +1,7 @@
+A UN scientific panel's first brief on AI agents states that the traditional model of safeguarding is unravelling. Its 40 members issue no recommendations, presenting aviation and medicine practices as options.
+
+Non-prescriptive keeps the burden with the deployer.
+
+---
+
+Source: Independent International Scientific Panel on AI https://www.un.org/independent-international-scientific-panel-ai/en/thematic-briefs/ai-agents-misalignment-risks
