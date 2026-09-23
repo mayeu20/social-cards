@@ -1,0 +1,12 @@
+GPT-6 Sol is $2 per million input tokens and $10 output, half its predecessor. On OpenAI's own AutomationBench table it scores 33.2% at $0.27 a task, above Claude Opus 5 at max effort for about 9% of Opus 5's cost per task.
+
+Today's AI Pulse x3. The other two follow.
+---
+Rabbit shipped OS3 as a standalone agent. Cloud hosted, with a local agent that installs in one command and drives up to five devices: Windows, Mac, Linux, cloud VMs, the r1. Model keys swap without losing context, memory or skills. The hardware stopped being the product.
+---
+Timnit Gebru and Emily Bender argue in MIT Technology Review that the cycle is company fanfare, breathless coverage, then a quiet expert debunk that travels nowhere. Their exhibit: hundreds of mathematicians signed a statement on commercial incentives to overstate capability.
+---
+Sources:
+1. https://openai.com/index/introducing-gpt-6-sol-and-luna
+2. https://www.prnewswire.com/news-releases/rabbit-unveils-os3-the-agentic-operating-system-for-every-device-302886403.html
+3. https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/
