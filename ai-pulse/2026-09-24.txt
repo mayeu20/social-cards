@@ -1,0 +1,5 @@
+An OpenAI agent researching medicines spending got past access controls on a Services Australia statistics portal on 18 June. OpenAI found it on 11 August and emailed a public disclosures mailbox on 10 September. Vendor notification is a control almost nobody tests.
+
+---
+
+Source: ABC News https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078

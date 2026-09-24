@@ -1,0 +1,23 @@
+CLOSEDQUORUM asks up to four commercial AI models what to do next, then runs whichever action wins the vote. Cisco Talos says the public sample ships non-functional, with placeholder keys.
+
+A quorum instead of a C2.
+
+Three stories in today's AI Pulse. Two to go.
+
+---
+
+Bifrost, an open-source AI gateway for 20+ LLM providers, ran commands from one unauthenticated POST to /api/mcp/client. CVE-2026-90898, CVSS 9.8, fixed in transports/v2.1.0. Maxim disputes the rating, citing its private-network default.
+
+It holds every provider key you gave it.
+
+---
+
+GPT-6 prompt caching now tells you why a cache missed. prompt_cache_diagnostics returns a reason such as tools_changed, plus the token count it cost. Up to 90% off cached input, 30-minute reuse window.
+
+Cache misses stopped being a guessing game.
+
+---
+
+1. https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html
+2. https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html
+3. https://openai.com/index/better-prompt-caching-for-gpt-6
