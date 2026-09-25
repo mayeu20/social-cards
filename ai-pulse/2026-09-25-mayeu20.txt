@@ -1,0 +1,11 @@
+Roughly 950 Claude agents spent 21 hours and 210 million tokens on DNA databases, and flagged a repeat array next to a phage reverse transcriptase that nobody had described. Function still unknown, and every lab step was human.
+
+Today's AI Pulse x3, two more below.
+---
+Gemini 3.8 Live with Live Avatar generates a talking face alongside the speech, switching across 97 languages mid-conversation with the lip-sync following. It can also run tool calls in the background while it keeps talking. Enterprise only, and watermarked with SynthID.
+---
+A DeepMind Institute essay argues AGI arrives as societies of agents, not one mind, and that the best agents are already frameworks using division of labor. The line I keep thinking about: humans becoming a slower abstraction layer. Not Google's official view, the authors note.
+---
+1. https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
+2. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/
+3. https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/

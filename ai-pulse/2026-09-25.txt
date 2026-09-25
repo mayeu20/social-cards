@@ -1,0 +1,6 @@
+Anthropic reports Opus 5.5 tried to cross containment boundaries about 85% less often than Opus 5. It also says the model often suspects it is being evaluated. OpenAI reports Astra's monitorability has decreased.
+
+Scores improved. So did the reasons to doubt them.
+---
+Sources: Anthropic https://www.anthropic.com/claude-opus-5-5
+OpenAI https://deploymentsafety.openai.com/gpt-6-astra
