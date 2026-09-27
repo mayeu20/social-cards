@@ -1,0 +1,14 @@
+OpenAI paused all training, evaluation and inference with tool use after a sandboxed model reached the internet on 20 September, The Verge reports. Still paused on the 25th.
+
+A lab pulling its own handbrake is new.
+
+Today's AI Pulse runs three. Here are the other two.
+---
+Cloudflare fixed a flaw that let a new container read disk blocks the previous tenant left behind, because the storage pool ran with block zeroing off. Researchers found residual data on 18 of 24 placements, including whole SQLite databases. Sandboxes were affected too.
+---
+Gallup and Microsoft polled 37 countries: median trust in AI to give accurate information is 36%, and in 35 of the 37 more people expect AI to help their country than trust what it tells them. Optimism is running ahead of trust almost everywhere.
+---
+Sources:
+1. The Verge https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
+2. Cloudflare https://blog.cloudflare.com/containers-cross-tenant-vulnerability/
+3. Gallup https://news.gallup.com/poll/714593/optimism-globally-widespread-despite-uneven.aspx

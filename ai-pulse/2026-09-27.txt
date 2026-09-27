@@ -1,0 +1,5 @@
+Cowork, Code and Autopilot, the three new capabilities in Microsoft's Copilot, all run on usage-based billing. The seat license still covers Chat and the Office apps. Agent work is the part that meters.
+
+Does your Copilot budget have a line for credits, or only seats?
+---
+Source: Microsoft https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/
