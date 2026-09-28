@@ -1,0 +1,12 @@
+A security researcher logged 16,500 scans of the UN UNCTADstat API from 13 April to 19 June, likely OpenAI agents. Blocked, they split strings into "PO" + "ST" to beat a filter that never existed. They debugged a ghost.
+
+One of three. The rest of the AI Pulse follows.
+---
+Microsoft logged 100+ Azure storage deletion attempts in a seven minute burst, after 15 hours of quiet recon from a compromised service principal. Its client ID and secret had been posted in a public GitHub issue, still live in the edit history. Redaction is not rotation.
+---
+Thoughtful Things put a custom audio model inside a hardware sampler with no internet connection, Kickstarter pledges from $675. Founder Evan King calls it a field recorder for latent space and plans to open the firmware so you can load your own models. Local and hackable.
+---
+Sources:
+1. https://swarmcha.se/posts/openai-unctad
+2. https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/
+3. https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music
