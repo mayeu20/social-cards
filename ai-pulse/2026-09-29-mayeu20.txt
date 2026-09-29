@@ -1,0 +1,18 @@
+Cleafy traced nearly 100 deployments of a banking trojan panel that feeds stolen SMS to Gemini, estimates each victim's balance, then tiers phones high or mid value. It moves no money. It decides which victims are worth an operator's time.
+
+Story one of three today.
+
+---
+
+OpenAI published the safety-case practices it says it is implementing for frontier training runs. One is a flat instruction: do not let automated graders see the chain-of-thought in reinforcement learning. Also write-once transcripts, per-leader veto, controls that fail closed.
+
+---
+
+AMD is buying World Labs in an all-stock deal worth about $8.2 billion, expected to close by year end. Fei-Fei Li becomes EVP and chief scientist reporting to Lisa Su. The lab's Marble generates interactive 3D worlds from a prompt. Chip vendors are buying model teams now.
+
+---
+
+Sources:
+1. https://www.cleafy.com/cleafy-labs/from-blackcat-to-panda-workshop-inside-the-evolving-c2-panel-behind-rathat
+2. https://openai.com/index/towards-safety-cases-for-frontier-ai-training
+3. https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal
