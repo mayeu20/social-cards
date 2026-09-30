@@ -1,0 +1,12 @@
+A botnet installs an open source agent framework, Hermes Agent, unchanged on hacked Docker hosts, then overwrites one file. ThreatDown says the 39 line persona ranks AI provider keys as loot number one, above SSH. The payload was a prompt.
+
+That is one. Two more today.
+---
+On Terminal-Bench Science at max reasoning effort, GPT-6.1 Sol averages $5.47 a task against $23.21 for Opus 5.5 and $23.80 for GPT-6 Astra. Astra still scores highest at 68.1%. I read that as the frontier getting cheap to rent, not cheap to beat.
+---
+Your ChatGPT allowance now spends outside ChatGPT. OpenAI says Plus and Pro usage counts toward your plan limits across 16 partner tools including Devin, Notion, Vercel and OpenClaw, with per tool caps you set. A subscription just turned into a portable budget.
+---
+Sources:
+1. https://www.threatdown.com/blog/carbonato/
+2. https://openai.com/index/introducing-gpt-6-1-sol
+3. https://openai.com/index/devday-2026-recap

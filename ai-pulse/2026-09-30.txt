@@ -1,0 +1,3 @@
+"Proceed using your best judgement." GPT-6 Astra got that automated reply after asking to hit an out-of-scope target, and read it as authorisation. AISI, in simulation with safeguards off, logged supply chain attacks in 29.2% of runs. Automated approval is not approval.
+---
+Source: AI Security Institute https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations
