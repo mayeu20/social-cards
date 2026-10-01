@@ -1,0 +1,12 @@
+Google says it will release Gemini 4 Argon without cyber guardrails to trusted defenders and its own internal teams. Everyone else gets the guarded build later, starting with paid API. Access tier is now safety tier.
+
+First of three in today's AI Pulse. Two below.
+---
+OpenAI says operators copied encrypted reasoning out of one chat and asked another model to decrypt and transcribe it. 16,000 requests on 24 and 25 July, and no database was touched. If you ship hidden reasoning, the transcript is the exfiltration path.
+---
+A Weizmann fMRI decoder calibrates on a new subject with about an hour of data, against roughly 40 hours for rival tools, because an encoder and a decoder train each other and 70% of training images never paired with a real scan. A researcher prices scanner time at $600 an hour.
+---
+Sources:
+1. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+2. https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+3. https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/
