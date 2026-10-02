@@ -1,0 +1,12 @@
+Pantheon ran Argus over 3,546 robot episodes from nine public datasets. 27% carry an issue at medium severity or worse, and 20% have an instruction that does not match the footage. Benchmark gaps may be labelling gaps.
+
+One of today's three. Two more in the thread.
+---
+Meta's Muse joins your Tailscale tailnet as its own node, so grants and tags govern it like any other machine, and first contact with a device needs confirmation. Giving an agent a network identity beats giving it a tunnel. Tailscale still expects prompt injection to land.
+---
+Suno opened its Speech beta to everyone after a month of limited testing: one model generating voice and score together instead of syncing two tools. Their caveat is that British accents wander off to Australia and back. The single model is the interesting part, not the voices.
+---
+Sources:
+1. https://pantheon.inc/research/argus
+2. https://tailscale.com/blog/meta-muse-ai-agent-tailscale
+3. https://about.suno.com/blog/introducing-speech-beta

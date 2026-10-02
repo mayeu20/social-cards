@@ -1,0 +1,3 @@
+Chegg and Penske both lost their suits over Google's AI Overviews on 30 September, in a single 41-page opinion. The court found publishers pleaded only an expectation of search traffic, not an agreement. A dependency resting on expectation is not a control.
+---
+Source: US District Court for the District of Columbia, memorandum opinion of 30 September 2026 https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_25-cv-03192/pdf/USCOURTS-dcd-1_25-cv-03192-0.pdf
