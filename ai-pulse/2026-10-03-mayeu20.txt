@@ -1,0 +1,12 @@
+CVSS 9.9 in GitLab's AI Gateway. CVE-2026-90970 let an authenticated user with Duo Agent Platform access escape the prompt template sandbox via a crafted flow config and run arbitrary commands on the gateway. Self-hosted only.
+
+Today's AI Pulse x3, two more below.
+---
+OpenAI shipped dots: always-on agents on GPT-6 Astra, each with its own cloud computer and plugins into 4,000+ apps. The line I'd read twice is the background one. Proactive research runs read-only, so a dot thinking on its own cannot send or change anything.
+---
+Meta open-sourced Muse Gadgets: ESP32 firmware and a Linux SDK under Apache 2.0, so a spare Pi or an M5Stack becomes a Muse device. Worth knowing before you build: every gadget still needs a pairing token from Meta, and Apache 2.0 does not cover a token.
+---
+Sources:
+1. https://docs.gitlab.com/releases/patches/other-patches/patch-release-gitlab-ai-gateway-19-4-1-released/
+2. https://openai.com/index/introducing-dots/
+3. https://github.com/facebookincubator/muse-gadget-sdk

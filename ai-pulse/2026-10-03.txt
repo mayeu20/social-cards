@@ -1,0 +1,5 @@
+Apple is tightening macOS Full Disk Access, the one grant exposing files, mail, messages and browsing history. The stated reason is AI agents: Apple says that risk will grow substantially.
+
+Most agent rollouts inherited permissions scoped for human-speed software.
+---
+Source: Apple Developer News https://developer.apple.com/news/?id=p6zjojqw
