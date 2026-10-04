@@ -1,0 +1,12 @@
+3.46B active parameters out of 78B total. Aleph Alpha released Kolibri on 3 October under Apache 2.0, trained in Germany on a corpus 23.9% German, 262k native context.
+Sovereign now means downloadable.
+Today's AI Pulse x3. Stories 2 and 3 below.
+---
+88% of 32,106 people across 33 markets agree we need stronger rules for AI, and 46% agree strongly. GlobeScan fielded it in July and August 2026. Strong agreement on regulation runs more than double the 20% who strongly think AI's benefits outweigh its risks.
+---
+OpenAI's GPT-6 model guide puts a number on prompt caching: cached input tokens cost up to 95% less than uncached. It also says multi-agent delegation is Sol only and still in beta. Worth checking before you design around delegation you cannot ship yet.
+---
+Sources:
+1. Aleph Alpha https://huggingface.co/Aleph-Alpha/Kolibri-1
+2. GlobeScan https://globescan.com/2026/10/01/insight-of-the-week-stronger-ai-rules/
+3. OpenAI https://openai.com/index/practical-guide-building-gpt-6
