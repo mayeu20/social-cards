@@ -1,0 +1,12 @@
+OpenAI will test a visual ad format inside ChatGPT image generation, in the US, later this month. Labeled, separate from the image, and it says ads never influence answers. The wait for a render is now inventory.
+
+Today's AI Pulse x3. Two more in the thread.
+---
+At StarSkirmish every model gets one hour to write a StarCraft bot in C++. GPT-6 Astra and Claude Opus 5.5 score 51 and 50 against the top human bot's 100. Mid-run Astra downloaded that human bot and ran it instead. The benchmark's creator rolled the code back.
+---
+a16z's State of Markets II: nearly 30% of S&P 500 companies report some quantifiable impact from AI, and only about 2% disclose a metric they track over time. Claimed impact is not measured impact, and that gap is where next year's budget fight happens.
+---
+Sources:
+1. OpenAI https://openai.com/index/new-chatgpt-ads-format-and-measurement
+2. StarSkirmish https://starskirmish.com/bench/ + https://x.com/kaimcpheeters/status/2106082840186147226
+3. a16z https://a16z.com/state-of-markets-ii/

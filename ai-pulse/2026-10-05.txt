@@ -1,0 +1,3 @@
+The password worked. The MFA code worked. The conditional access check passed. Proofpoint reports a China-aligned group proxied those real Microsoft sign-ins and kept the session cookies, targeting US AI policy experts. A clean login is not evidence of a safe session.
+---
+Source: Proofpoint https://www.proofpoint.com/us/blog/threat-insight/hallucinating-credibility-china-aligned-ta419-impersonates-its-way-us-ai-policy
