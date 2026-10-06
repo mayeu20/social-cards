@@ -1,0 +1,12 @@
+Utah has cleared an AI to write first-time acne prescriptions, not refills. Two physicians approve every one for the first 100 patients. After 500, review drops to a 10% monthly sample. The oversight is a schedule, not a setting.
+
+Today's AI Pulse x3. Two more below.
+---
+A researcher named the chain "protocol pivoting": poisoned text arrives through MCP shaped like an A2A task, and the orchestrator hands it to a subagent that trusts whoever delegated it. Google's MCP toolbox was rated CVSS 8.0, now fixed. Delegation is not authentication.
+---
+Hugging Face and Liquid AI trained a 2.6B model with RL across four agent harnesses at once. 54.2% pass@1 over 1,000 graded cells, but per harness it runs 48.8% to 64.8%. Same weights, 16 points apart. The harness is part of the eval, not the furniture.
+---
+Sources:
+1. Nolla Health https://www.nollahealth.com/blog/ai-prescriptions-utah
+2. Ars Technica https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/
+3. Hugging Face https://huggingface.co/FineEnvs/LFM2.5-2.6B-multiharness-RL

@@ -1,0 +1,3 @@
+Replace one word in ten with a synonym and detection of OpenAI's new EU text watermark falls from 92% to 66%, by OpenAI's own numbers. At one in four, 17%. The detector goes to approved researchers only. Which of your AI policies assumes text can be checked?
+---
+Source: OpenAI https://openai.com/index/eu-text-provenance
