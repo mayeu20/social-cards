@@ -1,0 +1,12 @@
+129,000 verified software flaws, found by Anthropic's Glasswing partners from April to July. More than 33,000 rated critical or high. Anthropic says fewer than half of partners disclosed patch numbers. Discovery scaled. The fix rate did not.
+
+Three in today's AI Pulse. Two to go.
+---
+OpenAI published 722 mathematical manuscripts in 372 result families, produced by an unreleased internal model. Roughly 4,000 problems were posed, and each result averaged three hours of ChatGPT Pro thinking. The repo's own caveat: unformalized results could have issues.
+---
+OpenAI and Ironclad built 11 contracting tasks that take an experienced user 30 to 40 minutes. GPT-6 Astra averaged 55.0% against GPT-5.6 Sol's 41.6%, and simulated time per attempt fell from 37.0 to 19.2 minutes. Nearly twice as fast, at just over half the requirements.
+---
+Sources:
+1. Anthropic https://www.anthropic.com/news/cyber-verification-program
+2. OpenAI https://github.com/openai/math
+3. OpenAI https://openai.com/index/advancing-computer-use-with-ironclad
