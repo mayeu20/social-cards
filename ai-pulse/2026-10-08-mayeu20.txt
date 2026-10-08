@@ -1,0 +1,14 @@
+"70% success is like it doesn't work, right?"
+
+Marc Raibert, on vision-language-action models going from 50% to 70%. The robotics demos that look general are mostly still a person with a controller.
+
+One down, two to go in today's AI Pulse.
+---
+GPT-6 Sol started rolling out to ChatGPT Plus, Pro, Business and Enterprise today, Free and Go get GPT-6 Luna tomorrow. Enterprise availability depends on workplace admin settings. The models behind Work and Codex are not changing. A tier split is now a model split.
+---
+Google launched Playground, where you describe a game in a chat box and play it. US only, 18+, and creation access is tiered by your Google AI subscription. Unity Spark is in testing. The subscription now gates how much you can make, not just how much you can use.
+---
+Sources:
+1. https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/
+2. https://openai.com/index/gpt-6-for-everyone
+3. https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/

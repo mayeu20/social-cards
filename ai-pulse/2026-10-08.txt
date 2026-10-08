@@ -1,0 +1,3 @@
+The scanning targeted default listening ports. Lumen reports a campaign active since April that turned internet-facing LiteLLM, Ollama and Gotenberg deployments into cryptocurrency miners, each victim becoming a scanner for the next. Who owns patching your AI gateway?
+---
+Source: Lumen Black Lotus Labs https://www.lumen.com/blog/en-us/canto-incognito-tracking-the-poellm-malware
