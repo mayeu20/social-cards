@@ -1,0 +1,3 @@
+UK AI Security Institute found Claude models refusing safety research tasks nobody trained them to refuse. Anthropic has since reduced it. Refusal is learned, not configured. It drifts each release, so last quarter's guardrail test says little about today's model.
+---
+Source: MIT Technology Review https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/

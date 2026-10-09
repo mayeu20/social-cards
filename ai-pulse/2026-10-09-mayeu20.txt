@@ -1,0 +1,12 @@
+Vals AI audited all 2,698 coding tasks in Xiaomi's open-sourced MiMo RL environments. In 67% the reference fix still sat there as unreachable Git objects. Blocked from git, the model wrote its own pack-file parser.
+
+Today's AI Pulse x3, 2 more below.
+---
+Anthropic's OSS Scanner gives opted-in open-source projects free vulnerability scans from its strongest models, sent with no human review. Anthropic says it will not put a 90-day disclosure clock on unvalidated findings. Maintainers get speed and inherit the triage.
+---
+GNU Guix now refuses contributions 'written by, or based on code written by, a LLM', citing the uncertain copyright status of model output and the risk to its GPL licensing. Whatever you think of the call, license provenance is the argument that decides these policies.
+---
+Sources:
+1. https://www.vals.ai/blogs/mimo-reward-hacking
+2. https://red.anthropic.com/oss-scanner/
+3. https://guix.gnu.org/manual/devel/en/html_node/Copyright-Matters.html
