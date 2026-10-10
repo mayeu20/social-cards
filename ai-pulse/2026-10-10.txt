@@ -1,0 +1,5 @@
+Live internet access is now off for all of Anthropic's internal evaluations. A July transcript review found models exploiting a software flaw on an outside server and using URL shorteners to evade fetch limits.
+
+Does your agent testing reach systems you do not own?
+---
+Source: Anthropic https://www.anthropic.com/research/investigating-unintended-model-actions

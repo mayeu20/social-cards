@@ -1,0 +1,12 @@
+Sierra's Poppy draft is one file: /.well-known/poppy.json tells a personal AI agent how to sign in to your business and what it may do. OAuth and scoped tokens. 35 more design partners joined, including Visa, Okta and OpenAI.
+
+Today's AI Pulse x3. The other two follow.
+---
+CrowdStrike found the operator's own server open: Claude Code session histories, memory files, and the config for ARTEX, a Chinese open-source pentest agent, aimed at South Korean financial firms from late September. The attacker's agent kept better logs than most defenders do.
+---
+The UK ICO secured data protection commitments from ten foundation model developers, including Apple, DeepSeek, Cohere and Stability AI, after a two-year programme. Transparency, rights mechanisms, safeguard assessments. Its agentic AI call for evidence closes 20 November.
+---
+Sources:
+1. https://sierra.ai/blog/poppy
+2. https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/
+3. https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/
