@@ -1,0 +1,18 @@
+Satya Nadella's argument: controls over what a model can access must sit outside the model. Treat frontier models as insider risks: identity, least privilege, logs, containment.
+
+Old enterprise security, new kind of actor.
+
+Three stories in today's AI Pulse. Two to go.
+---
+Claude Managed Agents can now write their own workflows: the agent emits a program that runs many agents in phases, and the server runs it in the background. Set multiagent to multiagent_20261001 with workflows enabled.
+
+The orchestration layer stopped being something I write.
+---
+Anthropic paused the headline Claude Startups offers, a free year of Team and $1,000 in API credits. It says hundreds of thousands of applications arrived in days and it is over capacity, so every application gets re-reviewed and some statuses will change.
+
+Claimed offers stand.
+---
+Sources:
+1. https://x.com/satyanadella/status/2108931348857827686
+2. https://platform.claude.com/docs/en/release-notes/overview
+3. https://claude.com/programs/startups

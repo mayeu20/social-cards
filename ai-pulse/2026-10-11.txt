@@ -1,0 +1,5 @@
+Google Cloud says a coworker agent gets its own Workspace account: an @agents.company.com address, a calendar, a Drive, and a row in the company directory. Actions log to the agent, not a person.
+
+Agent governance starts in the identity inventory, not the model review.
+---
+Source: Google Cloud https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026
