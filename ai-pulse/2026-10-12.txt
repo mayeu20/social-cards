@@ -1,0 +1,5 @@
+A fabricated authorization line appears verbatim across four unrelated victims and two tools. SOCRadar pulled it from the attacker's own AI session logs, where the model had refused four times.
+
+A refusal is scoped to one session. Which control of yours is not?
+---
+Source: SOCRadar https://socradar.io/blog/cyberxero-ai-iab-ukraine-critical-infrastructure/

@@ -1,0 +1,14 @@
+30 out of 42 at the 2026 IMO, against a gold threshold of 29, graded by official IMO graders. NVIDIA's Nemotron ran in natural language with no formal prover, no tools, no internet.
+
+External grading is the point.
+
+Today's AI Pulse x3. Scroll for the other two.
+---
+TII in Abu Dhabi reports 20.92% average Arabic word error rate from a 1.6B model across the six Open Universal Arabic ASR sets, against a best published 23.17%. That is their own run, not a leaderboard entry, and the weights are not out yet.
+---
+Ai2 replaced GPU allocations with GPU time budgets across clusters of 88 to 1024 GPUs. Debug jobs went from a two hour p90 queue wait to 30 seconds, with cluster occupancy flat at 98%. Same hardware, different contract.
+---
+Sources:
+1. https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
+2. https://huggingface.co/blog/tiiuae/falcon-asr
+3. https://huggingface.co/blog/allenai/impactful-scheduling
