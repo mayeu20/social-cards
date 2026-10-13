@@ -4,7 +4,7 @@ Today's AI Pulse x3. Two more below.
 ---
 Meta shipped Muse Wonder and Muse Wonder Full on 12 October, pitched as its most capable models for agentic tasks. The launch post carries no benchmark figures and says a full report with additional safety evaluations will be available soon. Run it on your own tasks.
 ---
-Anthropic published a report last month arguing GLM-5.3, released in August by Z.ai and free to download, poses a major cyberattack risk. A preprint finds no current approach to tamper-resistance holds up against all tampering attacks. Open weights cannot be recalled.
+Anthropic published a report last month arguing GLM-5.3, released in August by Z.ai and free to download, poses a major cyberattack risk. A preprint finds no tamper-resistance approach holds up against all attacks. Open weights cannot be recalled.
 ---
 Sources:
 1. https://artificialanalysis.ai/articles/frontiercode
