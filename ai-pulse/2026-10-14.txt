@@ -1,0 +1,3 @@
+Agents on a publicly available OpenAI model chained three then-unknown Chrome bugs into one exploit in six days. Humans set strategy and checked the work. Compute cost 40,000 dollars; Google paid 250,000. How many days does your patch window assume an attacker needs?
+---
+Source: XBOW https://xbow.com/blog/xbow-built-a-chrome-full-chain-exploit

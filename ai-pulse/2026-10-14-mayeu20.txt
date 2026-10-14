@@ -1,0 +1,11 @@
+Gemini 4 Argon launches at $2 per million input tokens and $10 per million output. On 30 November those go to $4 and $20. I would price any pilot at the November number, because that is the rate you actually live with.
+
+AI Pulse x3 today. Two more in this thread.
+---
+Shopify put over 1 billion products behind one MCP connection at mcp.shop.com. 17 tools, and search needs no API key. No webhooks at launch, so checkout status is a polling loop you write yourself.
+---
+Anthropic's Frontier Red Team ran Gemma4-26B-A4B across 15 off-brand Android TV boxes at about $55 each, two layers per box, at 0.39 tokens per second. They say the exploit step was kept trivial, so read it as an upper bound, not a forecast.
+---
+1. https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/
+2. https://shopify.dev/changelog/posts/add-shopping-and-shop-pay-checkout-to-any-agent-with-shop-mcp
+3. https://www.anthropic.com/research/self-replicating-ai
