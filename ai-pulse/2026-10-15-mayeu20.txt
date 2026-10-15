@@ -1,0 +1,12 @@
+Researchers hid text in their own report that no human reader could see. The agents scraping it wrote back. Swarmchasers logged 2,600+ attempts against Alibaba's Amap, 28 September to 8 October, out of Tencent Cloud Hong Kong.
+
+Story one of three in today's AI Pulse.
+---
+Langflow before 1.9.0 gives any authenticated user remote code execution. The MCP Stdio command field goes straight into bash -c with no validation, no allowlist, no sandbox, and fires when the server list is fetched. Previdian's sensors first saw exploitation on 11 October.
+---
+Claude Platform now emits OpenTelemetry traces in public beta, from Managed Agents, the Messages API and the SDKs, following the GenAI semantic conventions. Agent turns, model calls and tool use land in the tool you already run. No GA date given.
+---
+Sources:
+1. https://swarmcha.se/posts/chinese-agent-fleet-full-report
+2. https://previdian.com/CVE-2026-105740
+3. https://claude.com/resources/articles/agent-observability-on-the-claude-platform

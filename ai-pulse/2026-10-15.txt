@@ -1,0 +1,3 @@
+In May, Anthropic merged around 2,500 code changes a day. By September, over 30,000. The company says the bottleneck is now source control, builds and CI, not coding. Seven engineers moved the monorepo off git in five months. Tooling built for human pace fails first.
+---
+Source: Anthropic https://www.anthropic.com/engineering/redesigning-source-control
