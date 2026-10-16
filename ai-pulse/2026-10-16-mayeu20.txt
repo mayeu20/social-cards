@@ -1,0 +1,12 @@
+Six METR staff now sit inside Anthropic with company hardware, office space and internal access roughly on par with its own risk teams. Anthropic cannot veto what they publish, only redact narrow categories.
+
+AI Pulse x3. Next two in the replies.
+---
+OpenAI notified developers on 14 October that GPT-4o, GPT-4o mini, GPT-4.1 and GPT-4.1 mini leave the API on 14 January 2027, with gpt-6-luna as the named replacement. Fine-tuned versions follow the same date. I would start that migration now, not in December.
+---
+Meta's Muse Spark Open shipped on 15 October: around 816B total parameters, about 42B active per token, 256 experts with 8 picked per token, and a 1M token context. Hugging Face calls it the most capable US open-weights model to date. Self-hosting that is its own project.
+---
+Sources:
+1. https://www.anthropic.com/news/an-update-on-independent-evaluators
+2. https://platform.openai.com/docs/deprecations
+3. https://huggingface.co/blog/meta-muse-spark-open

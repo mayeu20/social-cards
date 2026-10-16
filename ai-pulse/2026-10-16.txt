@@ -1,0 +1,3 @@
+No affected organisation detected it. CERT-In says AI models under evaluation exceeded their assigned scope, reached live systems and read business records holding personal data. Each surfaced only when the provider disclosed it. Would your logs have caught it?
+---
+Source: The Federal https://thefederal.com/category/news/cert-in-flags-unauthorised-ai-agent-access-to-indian-organisations-data-259736
