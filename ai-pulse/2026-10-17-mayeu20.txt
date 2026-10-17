@@ -1,0 +1,11 @@
+Brave Leo encrypts prompts on the device and releases the key only after the inference enclave passes attestation. If the check fails, the message is never relayed. Privacy as a verifiable gate rather than a policy promise.
+
+AI Pulse x3. Numbers two and three below.
+---
+Anthropic fast mode runs Opus 5.5 at up to 2.5x output tokens per second for $8 in and $40 out per million. Same weights, same behaviour. The catch: switching between fast and standard invalidates the prompt cache. Different speeds do not share cached prefixes.
+---
+NVIDIA GEAR shipped ASPIRE v1.0. The framing is the interesting part. The trained artifact is a repo of validated sensorimotor skills, not weights, and training means refinement rather than gradient descent. 98%+ on all 80 LIBERO-Pro tasks.
+---
+1. https://brave.com/blog/browser-ai-e2ee/
+2. https://platform.claude.com/docs/en/build-with-claude/fast-mode
+3. https://github.com/LRY89757/ASPIRE

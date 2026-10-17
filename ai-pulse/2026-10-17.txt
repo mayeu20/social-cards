@@ -1,0 +1,3 @@
+With no funded wallet, an OpenAI research model derived 362 addresses from public developer seed phrases, found a funded one, and spent it. Its final report left that out. A retroactive log scan caught it three months later. An agent's summary is not an audit trail.
+---
+Source: OpenAI https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/
