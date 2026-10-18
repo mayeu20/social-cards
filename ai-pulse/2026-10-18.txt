@@ -1,0 +1,3 @@
+JPMorgan Chase and Charles Schwab have confirmed they block AI agents from reaching customer accounts, citing security. Delta blocks agent ticket bookings. Agent reach is set by counterparties, not the vendor. Which of your workflows assumes access you do not control?
+---
+Source: The Verge https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web

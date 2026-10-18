@@ -1,0 +1,11 @@
+Beam's card claims comparable quality to leading open models at about 3x fewer reasoning tokens. Reflection shipped the weights under Apache 2.0, 501B total and 23B active. I would benchmark on reasoning spend, not parameters.
+
+AI Pulse x3 today. Two more coming up.
+---
+Perplexity's agent sandbox SPACE is public under Apache 2.0, written in Rust. Each task gets its own Firecracker microVM, and the company says credentials are injected from outside the sandbox only at the moment they are needed, so a compromised agent never holds them.
+---
+Anthropic published its own employment data. The junior share of technical hires fell from 27% to 9% since early 2025, and by August interactive agent hours outnumbered employee hours six to one. Self-reported, one company, so read it as a leading indicator.
+---
+1. https://huggingface.co/reflection/Beam-1.0-501B-A23B
+2. https://github.com/perplexityai/SPACE
+3. https://www.anthropic.com/research/employment-at-anthropic
