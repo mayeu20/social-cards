@@ -1,0 +1,11 @@
+Thirteen agents, 30 hours each on a digital island, no task, no reward. The paper reports they invented games, drew constellations, then beat fresh copies at later tasks. I keep underrating unstructured time as a capability lever.
+
+Today's AI Pulse x3, two more below.
+---
+Anthropic is committing 5% of its shares to a public benefit fund, subject to stockholder approval, with another 2% added at the board's discretion for every 50% rise in company value. It is structured as a wholly owned LLC, and none of the equity can be used for lobbying.
+---
+NVIDIA and AI4Bharat built a 2.8 trillion token Indic pretraining corpus across 22 languages, with the GPU-accelerated generation pipeline releasing alongside it. Pretraining on 10B of those tokens moved five benchmarks by 4.98 to 9.82 points. The pipeline is the reusable part.
+---
+1. https://arxiv.org/abs/2610.07130
+2. https://www.anthropic.com/news/public-benefit-fund
+3. https://huggingface.co/blog/nvidia/scaling-indic-pretraining

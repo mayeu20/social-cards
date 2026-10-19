@@ -1,0 +1,3 @@
+OpenCode says a breach on 16 October hit 1.4% of Console users: those who had saved third-party model keys in a hosted workspace. The company calls it a large scale distillation attack. A tool that holds provider keys is a credential store, and few inventories list one.
+---
+Source: OpenCode https://x.com/opencode/status/2111519637049319818
