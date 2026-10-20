@@ -1,0 +1,3 @@
+A US Homeland Security order published today removes DeepSeek products from federal civilian IT, and with them any third-party product built using DeepSeek implementations. That second clause is the hard one. Who can name every model inside the software they bought?
+---
+Source: Federal Register https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive

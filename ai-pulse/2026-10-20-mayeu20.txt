@@ -1,0 +1,11 @@
+OpenAI's COBOL migration eval went from 5.4% with GPT-5.6 Sol to 97.9% with GPT-6.1 Sol at high reasoning effort. The eval checks that behaviour is preserved, which is the whole job in legacy finance code.
+
+AI Pulse x3. Stories two and three below.
+---
+Decoding a Wan2.2 video on a Mac used to peak at 270 GiB of driver memory. In PyTorch 2.15 it peaks around 8. The same MPS release brings FP8 to Apple silicon and, with torch.compile, moves Qwen3.6-35B-A3B from 9.4 to 61.3 tokens/s on an M3 Ultra. Local inference grew up.
+---
+A Goodfire researcher published a 26,000 word post arguing neural networks are more interpretable than the field assumed. Chris Potts, Jacob Hilton and Neel Nanda have all pushed back on the record, and the author concedes it is not everything solved. No technical results yet.
+---
+1. https://openai.com/index/low-resource-programming-languages/
+2. https://huggingface.co/blog/mps-pytorch-2-15
+3. https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/
