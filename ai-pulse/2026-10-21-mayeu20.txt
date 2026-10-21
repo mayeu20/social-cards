@@ -1,0 +1,11 @@
+NVIDIA's OpenShell reference architecture moves agent policy enforcement onto BlueField-4 DPUs, out of band from the agent. The part I care about: a compromised agent cannot rewrite its own limits.
+
+Three for today. Two more in the thread.
+---
+Cloudflare shipped Clairic, an extraction model that returns typed values with confidence scores and has no output token charge because it generates none. Every scalar carries p_null, the probability the value is not in the input. Their line: well formed, not necessarily correct.
+---
+ElevenLabs put Eleven Realtime v1 Max at 570ms to first audio and 98.8% on Big Bench Audio, evaluated by Artificial Analysis, behind an OpenAI-compatible API. WebRTC is not in at launch, so it is WebSocket only, and telephony hops sit on top of that 570ms.
+---
+1. https://nvidianews.nvidia.com/news/openshell-reference-architecture
+2. https://blog.cloudflare.com/clairic-extraction-model/
+3. https://elevenlabs.io/realtime

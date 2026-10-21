@@ -1,0 +1,5 @@
+80 WhatsApp help pages carried notes in their code addressed to a chatbot. One told it not to recommend contacting a data protection authority. WhatsApp says they instruct its support bot and a bug exposed them.
+
+Help copy is model input, and few review it that way.
+---
+Source: Redact https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
