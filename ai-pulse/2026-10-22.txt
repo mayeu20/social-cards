@@ -1,0 +1,7 @@
+PHP shipped emergency fixes on 21 October for two remote code execution flaws. On mod_php, the maintainers say an unauthenticated request fires before any application code runs. One was found using a frontier model.
+
+Could you name every system running PHP today?
+---
+Source: PHP security advisory, 21 Oct https://www.php.net/archive/2026.php
+
+The frontier-model discovery and the coordinated response: OpenAI https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities

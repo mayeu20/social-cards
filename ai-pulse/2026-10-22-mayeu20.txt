@@ -1,0 +1,12 @@
+LiteLLM says its release workflow was pointed at a lookalike repo, Berri-AI/litellm instead of BerriAI/litellm, so the poisoned 1.107.0 was signed and published. Signing proved the pipeline, not the source.
+
+AI Pulse x3. Two more after this one.
+---
+OpenAI frontier models and Codex are coming to Google Cloud's Model Garden, transacted through the Marketplace. The detail that matters: enterprises can draw down existing GCP spend commitments to pay for them. Budget approval just stopped being the blocker.
+---
+OpenAI published ChatGPT's ad architecture: a post-trained LLM handles retrieval, ranking, relevance and the auction via tool calls, with state kept across conversations. Ad selection runs in a separate service so it cannot shape answers. That separation is the trust claim.
+---
+Sources:
+1. https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html
+2. https://openai.com/index/openai-models-google-cloud
+3. https://openai.com/index/building-chatgpt-ad-stack
