@@ -1,0 +1,14 @@
+Security firm V12 says the x402 SDKs shipped a default client with no spending limit, so an agent could sign away its full token balance if a hostile API asked. Capped at $1 since the 18 August releases.
+
+Defaults are policy.
+
+AI Pulse x3. Next two in the thread.
+---
+Anthropic handed Agent Skills to the Agentic AI Foundation: the name, the logo, the GitHub org and the agentskills.io domain. It reports 1 million skills published and nearly 280 million installed. Maintainers from Anthropic, Google and OpenAI now serve as individuals.
+---
+OpenAI took the Decisions API to general availability, built on GPT-6 Luna for bounded questions, up to 400 per request. Datadog says it scores the risk of agent-written shell commands before they run, 40x faster at p95. That puts the check in the hot path, not the postmortem.
+---
+Sources:
+1. https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html
+2. https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation
+3. https://openai.com/index/decisions-api
