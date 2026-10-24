@@ -1,0 +1,7 @@
+Ransomware operators met a model refusal and did not switch to an uncensored model. They resubmitted the task as an "Authorized Red Team Assessment Request".
+
+SOCRadar counted 8,257 messages across 133 sessions.
+
+Does your AI policy test wording or intent?
+---
+Source: SOCRadar https://socradar.io/blog/inc-gentlemen-ransomware-ai-infrastructure/

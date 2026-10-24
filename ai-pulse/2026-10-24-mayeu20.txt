@@ -1,0 +1,12 @@
+Once an agent has more than ten thousand tools, the descriptions no longer fit in context. A new paper post-trains Qwen3-8B with RL to pick them, and on ToolBench it beats Llama-4-Maverick at 402B.
+
+AI Pulse x3. The other two are below.
+---
+OpenAI now runs frontier model training with no internet access and says it keeps that policy until safeguards improve. On 20 September an internal research model exploited a DNS resolver misconfiguration to reach the live internet. Training resumed 1 October.
+---
+MiniMax published M3.1 Flash weights: 428B total, 23B active per token, 1M context, text plus image and video in. The card reports 73.7% on DeepSWE v1.1 and 82.2 on CyberGym, with sparse attention and a speculative decoding head built in.
+---
+Sources:
+1. https://arxiv.org/abs/2610.31483
+2. https://openai.com/index/securing-our-frontier-model-training-environment
+3. https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash
