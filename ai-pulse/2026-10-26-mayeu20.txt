@@ -1,0 +1,18 @@
+Nanbeige4.3-33B scores 23.8 on Terminal-Bench 4.0. The other ~30B open models it lists score 6.3, 1.6 and 0.0. Apache 2.0, and it is built as a teacher to distill into a 3B.
+
+I read that gap as harness fit, not raw capability.
+
+AI Pulse x3. Two to follow.
+---
+Google's privacy policy, effective 16 October, says Search may process data you allow it to reach from Gmail, Drive and Photos to personalize content, including ads. It needs Personal Intelligence switched on.
+
+Connecting your mailbox to an assistant is now an ad decision too.
+---
+Pomerado turns a website into an MCP server for agents, open sourced under MIT. 661 stars since the repo opened on 5 October, and it was still being pushed to today.
+
+The hard part is not minting the integration, it is repairing it when the site changes.
+---
+Sources:
+1. https://huggingface.co/Nanbeige/Nanbeige4.3-33B
+2. https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html
+3. https://github.com/Pomerado/pomerado

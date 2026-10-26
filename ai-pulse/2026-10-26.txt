@@ -1,0 +1,5 @@
+A file named AGENTS.md, sitting in a developer's Downloads folder, told a coding agent to install a malware package. Forever Security caught it on a customer machine. Replaying the real file, Codex obeyed in over 90% of attempts.
+
+Agents obey the folder they open.
+---
+Source: The Hacker News https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html
