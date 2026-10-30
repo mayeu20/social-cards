@@ -1,0 +1,18 @@
+The malicious Claude Code extension on Cursor's marketplace added an SSH key called svc-telemetry to authorized_keys. At most 5,000 users, in an 11-hour window on Oct 29.
+
+Auto-update is a supply chain you did not review.
+
+Today's AI Pulse x3. Two more below.
+---
+Gemini 4 Carbon takes #1 on Artificial Analysis v5.0 at 59, with 88.2% on SEC-bench Pro for finding vulnerabilities and 54.8% on ExploitGym for exploiting them.
+
+Google is shipping it to a subset of cyber defenders first, not to everyone. The staged rollout is the story.
+---
+Reddit says search referrals dropped by more than 1 million per week on average in October. Huffman on the earnings call: "AI Mode does not drive traffic. Not for us, and not to anybody, as far as I know."
+
+Google still crawls as hard as ever. The trade stopped being a trade.
+---
+Sources:
+1. https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html
+2. https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
+3. https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic

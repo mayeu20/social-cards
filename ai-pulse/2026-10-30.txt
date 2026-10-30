@@ -1,0 +1,5 @@
+Only one of four widely used agent frameworks logs when an agent's permission mode changes mid-session, Partnership on AI found. In the other three, a change that removes human approval leaves no trace.
+
+An audit trail is a framework property, not a policy choice.
+---
+Source: Partnership on AI https://partnershiponai.org/resource/the-observability-gap-in-ai-agents/
