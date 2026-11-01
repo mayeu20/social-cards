@@ -1,0 +1,5 @@
+OpenAI rated it P1, its most serious category, and fixed it in eight days. A shared ChatGPT link could run attacker code in the session of whoever opened it and read their private chats. No install, no sign-in.
+
+Treat a shared chat link as an attachment, not as text.
+---
+Source: The Hacker News https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html

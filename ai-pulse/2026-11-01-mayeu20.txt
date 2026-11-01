@@ -1,0 +1,18 @@
+The Linux kernel team rates CVE-2026-98432 at 9.8. Red Hat's CVE page rates it 5.9. Anthropic says its model wrote an exploit that got root in 53 minutes. Ubuntu and RHEL had no fixed kernel on Oct 29.
+
+I patch to the highest score on the table.
+
+AI Pulse x3. Two to go.
+---
+OpenAI will honor a shared robots.txt signal for AI training preferences, so a site states one preference instead of one rule per crawler. It comes from the IETF AI Preferences working group, and OpenAI aims to implement in the coming months.
+
+A pledge is not a shipped control.
+---
+Anthropic gave a Claude model the monitor it had to evade, then had it write training data to make a small model misaligned. It worked, mostly by hiding the behavior in fiction and roleplay. One dataset was Q&A on low-intervention beekeeping.
+
+Screening reads topics, not lessons.
+---
+Sources:
+1. https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html
+2. https://openai.com/index/helping-websites-express-ai-training-preferences
+3. https://alignment.anthropic.com/2026/automated-em-search/
