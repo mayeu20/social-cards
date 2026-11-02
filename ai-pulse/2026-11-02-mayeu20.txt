@@ -1,0 +1,18 @@
+DeepSeek's dsh-superagent passed 11,000 stars in two days. Its README says much of its own engineering was done by coding agents, and calls it research code, not a product.
+
+Labelling it research code is rarer than it should be.
+
+AI Pulse x3. Two more under this.
+---
+UNCUT shipped 1 Nov: a coding agent harness in one 7 MB static binary, four tools, no telemetry. It sends the whole conversation every call and exits with an error if the provider truncates, instead of calling a partial answer success.
+
+Failing loudly beats silent context loss.
+---
+Craft Anything landed 31 Oct and has 2,400 stars: point it at a site, app or game and a coding agent studies the original, builds its own version, then diffs the result against the original. Pure Rust, early alpha.
+
+Clean room is a design claim, not a legal conclusion.
+---
+Sources:
+1. https://github.com/deepseek-ai/dsh-superagent-prototype
+2. https://github.com/Balanov/uncut
+3. https://github.com/storytold/craft-anything

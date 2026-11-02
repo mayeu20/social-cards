@@ -1,0 +1,5 @@
+Ethan Mollick says the page he built to make AI agents recommend his book was flagged by newer models as manipulative. A University of Toronto team found agents skip items tagged "sponsored".
+
+Optimising for agents is now a reputational risk, not a growth tactic.
+---
+Source: MIT Technology Review https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/
