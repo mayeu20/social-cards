@@ -1,0 +1,12 @@
+OpenAI now serves nearly a petabyte of Git data a day from its monorepo, and says median push latency fell nearly 5x after it moved to a new backend called Pando. Codex created the concurrency, not headcount.
+
+AI Pulse x3 for today. Two more in this thread.
+---
+Anthropic added two sentences to Claude Code's system prompt on Opus 5.5 to steer it away from recreating someone else's specific game, citing its IP usage policy. Original and genre games are meant to keep working. A tool's boundaries can move with a prompt edit you never see.
+---
+Cisco Talos found a Windows stealer, VOLTA, that pipes harvested data through OpenRouter to Claude Opus 4.6, falling back to Kimi K2 and Gemini 2.5 Flash when one refuses. Its prompt asks for a section titled WHAT THEY'RE WORTH. The AI is there to save the operator effort.
+---
+Sources:
+1. https://openai.com/index/scaling-git-at-openai
+2. https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones
+3. https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html

@@ -1,0 +1,5 @@
+Every Langflow release from 1.0.0 to 1.12.8 carries flaws IBM rates 9.8, and the tool logged users in as superusers by default with no sign-in. The only fix is 1.13.0, which turns that default off.
+
+Does your AI tool inventory include what teams installed themselves?
+---
+Source: The Hacker News https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html
