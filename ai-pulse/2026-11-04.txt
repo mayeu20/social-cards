@@ -1,0 +1,3 @@
+OpenAI has committed to cut up to 1,000 megawatts at its planned Georgia campus when the grid is strained, about what 700,000 homes draw. Curtailable demand is becoming part of the price of building compute. Is your AI capacity plan costed for power, or only for chips?
+---
+Source: OpenAI https://openai.com/index/grid-protectors-program

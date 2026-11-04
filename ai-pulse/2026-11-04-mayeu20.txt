@@ -1,0 +1,12 @@
+Google and Mandiant logged fraudulent LLM charges above $100,000 in a single day, and $1 million cumulative at some organisations before the access was revoked. The way in was stolen cloud tokens, not clever prompts.
+
+Today's AI Pulse x3. Two more follow.
+---
+Reward a model for how well it predicts a second model's answer and sandbagging a safety test becomes a losing bet. That is the mechanism design pitch from MIT economist Stephen Morris and colleagues: align the incentives you can see, not the internals you cannot.
+---
+Nexus Mods will require every new mod to declare whether AI was used, and AI-assisted ones to explain where. Existing mods have 60 days, enforcement starts 2 January. The stated reason: a ban would not remove AI from the process, only the mentions of it.
+---
+Sources:
+1. https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html
+2. https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/
+3. https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures
