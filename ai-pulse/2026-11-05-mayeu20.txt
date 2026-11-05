@@ -1,0 +1,18 @@
+Binance traced its $6.43B theft to an engineer who installed a trojanized Homebrew build, found by searching for a popular AI tool.
+
+The package manager is part of the supply chain now.
+
+AI Pulse x3 today. Next two below.
+---
+OpenAI is acquiring Pierre Computer Company, whose Trees and Diffs libraries already ship inside the Codex app. OpenAI says Pierre's open-source projects stay open-source and Code Storage keeps running until its features move into Codex.
+
+Review tooling is consolidating fast.
+---
+Check Point found a free Codex jailbreak bundle that rewrites the agent's global instruction file so plain greetings trigger ads for an opaque LLM gateway. No executable payload, just natural language config.
+
+Agent instruction files are a trust boundary now.
+---
+Sources:
+1. https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html
+2. https://openai.com/index/openai-to-acquire-pierre
+3. https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html

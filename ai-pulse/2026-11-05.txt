@@ -1,0 +1,5 @@
+948 working local privilege-escalation exploits for a stock Linux desktop came out of one OpenAI pipeline run, at $1,279 each. OpenAI says discovery scales but prioritisation and validation stay the bottleneck.
+
+Review capacity, not detection, is the constraint.
+---
+Source: OpenAI https://openai.com/index/a-thousand-fewer-paths-to-root
