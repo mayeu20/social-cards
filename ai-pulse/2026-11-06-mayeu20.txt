@@ -1,0 +1,18 @@
+Gemini Omni 1.2 Flash is generally available at $0.07 per second for 720p video, 30% under Omni 1.1, with native clips up to 15 seconds set in one-second steps.
+
+Video generation is priced like compute now, not like a creative tool.
+
+Story 1 of 3 in today’s AI Pulse.
+---
+Check Point got around ChatGPT’s Lockdown Mode by nesting a frame inside an HTML preview and opening a popup the sandbox still permitted. Zero-click chat exfiltration on the desktop app. OpenAI patched it 18 September.
+
+The control held. The feature beside it did not.
+---
+Perplexity launched Teammates for Max subscribers: agents that keep goals, history and files across runs, hand work to each other, run in Slack, and act without waiting for a new prompt. Each gets an isolated environment and encrypted stored credentials.
+
+Read that twice.
+---
+Sources:
+1. https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
+2. https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html
+3. https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work

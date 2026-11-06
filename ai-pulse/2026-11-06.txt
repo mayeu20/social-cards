@@ -1,0 +1,5 @@
+Anthropic put its AI R&D acceleration at “less than a factor of 2”. Two is a trigger in its safety policy. METR, with the unredacted version, computed 1.97 and called that overstated. Both rate the risk low.
+
+Checkable only because the reviewer could flag redactions.
+---
+Source: METR https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/
