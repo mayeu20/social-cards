@@ -1,0 +1,5 @@
+Claude Code keeps its approval file out of git via one laptop's global excludes, never the repo's own .gitignore. Apiiro found 1,122 public copies holding a real secret, a median 217 days on the default branch.
+
+Does a safeguard on one machine count as a control?
+---
+Source: Apiiro https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again

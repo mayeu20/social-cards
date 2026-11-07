@@ -1,0 +1,18 @@
+Chainalysis says names, usernames, password hashes and live tokens for all of its users were taken. It calls the intrusion AI agent-assisted, with an on-path leg.
+
+Live tokens, not just hashes, is the part that matters.
+
+Three in today's AI Pulse. The other two follow.
+---
+OpenAI's BioBasicsBench puts agents on 100 routine wet-lab tasks: gel images, colony plates, instrument readouts. At the xhigh setting GPT-6 Astra took 66.7% of the available credit, against 43.8% for GPT-5.6 Sol.
+
+The tasks are deliberately the boring ones.
+---
+Moonshot's Kimi K3.1 Pro is on Hugging Face with 2.78 trillion parameters in the weights index. The licence is not Apache or MIT. It is a custom file named kimi-k3.1-pro.
+
+Open weights and an open licence are different things. Read the file before you build on it.
+---
+Sources:
+1. https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
+2. https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
+3. https://huggingface.co/moonshotai/Kimi-K3.1-Pro
