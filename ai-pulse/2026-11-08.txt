@@ -1,0 +1,3 @@
+Monitors reading only the public channel caught 30 to 40% of a planted saboteur at a 5% false-accusation rate. Anthropic reports detection was trivial with the saboteur's private reasoning visible. Access ends at the org boundary, so audit trails beat better monitors.
+---
+Source: Anthropic https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs

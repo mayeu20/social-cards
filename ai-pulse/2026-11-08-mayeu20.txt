@@ -1,0 +1,12 @@
+Anthropic ran up to 128 offline "dreaming" passes over a 350,000-file corpus. Wiki plus search went 54% to 61%, search alone stayed flat at 53%, and questions cost about 20,000 fewer tokens. Memory is upkeep, not more context.
+
+AI Pulse x3 today. Two to go.
+---
+OpenCode shipped Browse, an MCP server plus Chromium extension that lets an agent drive tabs you are already signed into, capturing screenshots, recordings and HAR. At a login, 2FA prompt or payment it hands the tab back and resumes when you click Continue.
+---
+Airbnb runs nearly 500,000 bookings a day. Brian Chesky told the Q3 call that bookings from general purpose agents are a very nonmaterial number, peaked in early October and have been flat for four weeks. The agentic commerce curve is not yet visible where it can be counted.
+---
+Sources:
+1. https://www.anthropic.com/research/components-of-agent-memory
+2. https://opencode.ai/product/browse
+3. https://www.fool.com/earnings/call-transcripts/2026/11/06/airbnb-abnb-q3-2026-earnings-call-transcript/
