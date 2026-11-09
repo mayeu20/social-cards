@@ -1,0 +1,12 @@
+A browser extension made Claude Desktop run a global npm install: four prompts and an auto-clicked Allow, no browser exploit. Forever Security's point: a logged-in web session is not proof you approved a command on the machine.
+
+AI Pulse, three stories today. Two below.
+---
+Pinky, three days old and at 1,250 stars, lets any MCP agent drive a real iPhone or Android while you watch. Apache-2.0, Go. The part worth copying: approvals are enforced in its gateway, not by instructions to the agent, so on-screen text cannot talk it into approving itself.
+---
+A peer-reviewed LSE and Systemiq study put AI's potential emissions cut at 3.2 to 5.4 billion tons a year by 2035. Reviewing grid operators across the US, EU and China against it, MIT Technology Review found one with a working deployment of the kind the study assumed.
+---
+Sources:
+1. https://forever.security/blog/thisbash-claude-dispatch-browser-extension-rce
+2. https://github.com/DIYgod/pinky
+3. https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/

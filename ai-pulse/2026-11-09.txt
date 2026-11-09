@@ -1,0 +1,3 @@
+One operator aimed a mesh of 12 AI agents at hundreds of organizations in 11 countries. Acronis confirms access or data theft at roughly ten of them. The agents failed where authentication was enforced. Agents scale reach, not entry. Which of your controls would hold?
+---
+Source: Acronis Threat Research Unit https://www.acronis.com/en/tru/posts/bossai-inside-the-ai-attack-mesh-that-targeted-taiwans-emergency-services/
