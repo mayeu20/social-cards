@@ -1,0 +1,5 @@
+OpenAI says its new Control Room stops model output within 35 seconds of a decision to halt a research job, and fails closed: if the service goes down, all inference is denied.
+
+The part worth copying: the stop lives in the inference layer, not in the agent's own code.
+---
+Source: OpenAI https://openai.com/index/control-room

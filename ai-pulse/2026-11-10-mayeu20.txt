@@ -1,0 +1,12 @@
+Anthropic says Claude Fable 5.2 at High effort scores 45.3% on FrontierCode 2.0, about level with Opus 5.5's best of 45.5%, for roughly half the cost per task. The number I'd watch is the effort setting, not the top score.
+
+Today's AI Pulse, 3 stories. 2 more below.
+---
+ChatGPT Enterprise is now in AWS Marketplace, and eligible spend counts toward existing AWS commitments. In a lot of companies the slow part of an AI rollout is procurement, not the model, so this removes a real blocker.
+---
+Apple now sells Intelligence Usage Packs in Logic Pro, a one-time buy The Verge puts at $49.99. Per Apple, they only kick in after the monthly limit, roll over, expire after 12 months and are non-refundable. Metered AI has reached the consumer app.
+---
+Sources:
+1. https://www.anthropic.com/claude-fable-and-mythos-5-2
+2. https://openai.com/index/chatgpt-enterprise-aws-marketplace
+3. https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro
