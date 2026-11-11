@@ -1,0 +1,12 @@
+35,578 of 37,571 live Grok Build apps opened for anyone with no sign-in, Claroc found, 24 built by SpaceXSI's own staff. Each app link is a hostname, so passive DNS lists it. Random words in a URL don't hide what DNS indexes.
+
+Three for today's AI Pulse. Next two below.
+---
+Microsoft researchers backdoored an LLM by reprogramming fewer than 10 dormant neurons, no training, and it still passed standard evals. The trigger can be as dull as the date rolling into 2027. I'd treat open weights like any unsigned binary: check provenance, diff the weights.
+---
+OpenAI and Upwork: from early 2023 to late 2025, the task mix in AI-related job posts got 45% more diverse (about 15 equally common tasks to 21). Hourly rates matched other work; budgets and hours ran larger. The premium looks like scope, not rate.
+---
+Sources:
+1. https://blog.claroc.io/ghostshares-grok-build-apps/
+2. https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/
+3. https://openai.com/index/ai-effect-on-freelance-work
