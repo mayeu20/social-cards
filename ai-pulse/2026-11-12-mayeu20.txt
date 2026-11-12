@@ -1,0 +1,11 @@
+Most AWS calls hit AccessDenied. One GetSecretValue against a production secret did not. Arctic Wolf ties the intrusions to an open-source AI pentest agent. With agents, the permission you forgot is the one that gets tried.
+
+First of three in today's AI Pulse.
+---
+United says AI agents can show its flights but not book them. CEO Scott Kirby, per the WSJ: "I don't want to create another middleman." I expect more sellers to treat agent checkout as a policy call, not a technical one.
+---
+DeepMind's AlphaGenome 2 was trained on 100M+ single-cell profiles across 68 tissues and, per Google, finds nearly twice as many expression-changing variants as its prior model. The catch: each prediction costs more, so the original stays in service.
+---
+1. https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html
+2. https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents
+3. https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model
