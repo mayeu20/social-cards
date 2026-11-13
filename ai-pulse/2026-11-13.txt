@@ -1,0 +1,5 @@
+One wrong key on an AI tool's name is enough. Island traced 186 lookalike domains across 27 AI brands; a Claude typo ended at a fake Cloudflare check coaching visitors to run a hidden PowerShell command.
+
+If staff reach AI tools by typing the URL, who owns that path?
+---
+Source: Island, "TypoPrompting: From AI Typos to Malware" https://www.island.io/blog/typoprompting-from-ai-typos-to-malware

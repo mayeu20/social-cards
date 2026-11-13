@@ -1,0 +1,12 @@
+Top 1% of US firms paying for AI on Ramp: a median $10,199 per employee per month. The median firm: $16.32. Same "adopted AI" label, a roughly 625x gap in what it means.
+
+Friday's AI Pulse x3. The next two are below.
+---
+Anthropic put self-hosted Claude Managed Agents in private beta: harness, sandboxes, credentials and session history run in your own cloud or on-prem, and model calls go wherever you choose, your own gateway included. What I like: credentials stay out of the sandbox by design.
+---
+OpenAI opened Businesses in ChatGPT in beta: firms claim a profile, push product feeds, see mentions and clicks, and eligible US ecommerce brands can launch a Business Agent that ChatGPT Ads can point to. AI answers just got a claim-your-listing layer, the way search did.
+---
+Sources:
+1. https://ramp.com/data/ai-index
+2. https://claude.com/resources/articles/self-hosted-claude-managed-agents
+3. https://openai.com/index/introducing-businesses-chatgpt
