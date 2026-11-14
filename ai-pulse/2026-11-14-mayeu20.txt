@@ -1,0 +1,12 @@
+When help was needed, 12 frontier models acting as workplace agents spoke up 9 times in 10. When silence was right, they held back only 6 in 10 (Deepnote's Agent Initiative Benchmark). Restraint is the hard part.
+
+AI Pulse for Saturday: three stories, two to come.
+---
+AWS says AI agents keep its local AWS Emulator in sync with AWS, with updates many times a day. At least three releases landed on GitHub before noon UTC today, each a long list of fidelity fixes. I'm curious whether that pace holds once the easy gaps are closed.
+---
+The FBI says North Korea-linked hackers stole over $400M in crypto in 18 months with "FaceStealer": fake video calls showing recorded or deepfake footage of people the target trusts, then a bogus audio-fix link that installs malware. A familiar face on a call proves nothing now.
+---
+Sources:
+1. https://deepnote.com/research/benchmark
+2. https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html
+3. https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html
