@@ -1,0 +1,12 @@
+The FAA's $875M SMART system is expanding from DC airspace to all 22 US centers. The FAA says it rerouted 180 flights since September, saving ~10 minutes and ~80 gallons each. Humans still sign off on every recommendation.
+
+Sunday's AI Pulse, x3. Two more below.
+---
+A researcher's 48 AI agents combed NASA lidar and flagged a Maya village with no official record. It had been published in a journal a year earlier. His own lesson: unregistered is not the same as unmapped. I'd make that check step one of any agent research loop.
+---
+ChatGPT Wallet is live for US Pro users: Dots agents can buy with your card, but every checkout needs your biometric approval and the merchant sees a token, not the card. OpenAI says pre-approved spending limits come later. That later step is the one to watch.
+---
+Sources:
+1. https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/
+2. https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery
+3. https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
