@@ -1,0 +1,11 @@
+Amazon ran decoy LLM APIs from 3 Oct to 5 Nov. Attacker AI agents called them as their model and shipped their whole campaign memory along: stolen AI keys paying for the inference that hunted more keys.
+Monday's AI Pulse x3. Stories 2 and 3 below.
+---
+Apple opened a health AI study to up to 200,000 US adults, built with OpenEvidence: ask health questions, get cited answers, rate them. Apple says the data won't train models. I like that it measures whether people understand the answer, not just whether it's correct.
+---
+A UC Santa Barbara physicist says GPT-6 Astra took the lead on the detailed proof behind his candidate lattice definition of the Standard Model, a gap physics has carried for 50+ years. It's a preprint, so peer review is the check that matters, not the blog post.
+---
+Sources:
+1. https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/
+2. https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/
+3. https://openai.com/index/step-toward-defining-the-standard-model

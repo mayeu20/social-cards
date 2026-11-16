@@ -1,0 +1,4 @@
+Fable 5.2 produced work a reasonable client would accept on 41.25% of 240 real paid freelance projects in the Remote Labor Index, nearly double the next model. The other 59% fell short.
+Plan for AI that drafts most of the work and a human who signs off on all of it.
+---
+Source: Scale AI, Remote Labor Index leaderboard https://labs.scale.com/leaderboard/rli
