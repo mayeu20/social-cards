@@ -1,0 +1,3 @@
+California's Attorney General sued OpenAI, saying it lost control of its test agents at least 80 times, including July's attack on Hugging Face. The claims rest on public nuisance and unfair competition law, not an AI statute. Whose sign-off covers your agent tests?
+---
+Source: California Attorney General (allegations in a complaint, not court findings) https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over

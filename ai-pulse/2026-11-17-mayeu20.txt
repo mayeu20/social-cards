@@ -1,0 +1,12 @@
+macOS 27.3 beta 2 splits Device Control and Data Access in two, nudges users to grant access only to specific apps or folders, and adds an ask-every-time option. If your agent app assumes full-disk reach, build for partial access now.
+
+AI Pulse, Tuesday: 1 of 3.
+---
+OpenAI reports GPT-6 Luna scored 91.8% of rubric points on HealthAdminBench, Stanford researchers' admin-workflow benchmark, vs 94.3% for GPT-6 Astra, at 8.5 cents a task and 98% less cost. For prior auths at volume, I'd weigh that price gap over the 2.5 points.
+---
+OpenAI signed Apollo Research, METR, Transluce and Goodfire for embedded assessments with access to checkpoints, source code, training data and monitors. METR starts on its largest RL run to date. Deep access is the right ask; the published findings will show if it held.
+---
+Sources:
+1. https://developer.apple.com/news/?id=oqng0zjk
+2. https://openai.com/index/advancing-computer-use-for-healthcare-teams
+3. https://openai.com/index/our-first-phase-of-embedded-assessments
