@@ -1,0 +1,12 @@
+Attackers pushed two malicious versions (1.26.1, 1.26.2) of Microsoft's agent-framework to PyPI on 17 Nov, per Socket, Endor Labs and others: a .pth file ran a credential stealer on every Python start. Pin 1.26.0, rotate from a clean box.
+
+Three today, two more below.
+---
+GPT-6.2 Astra API: $8 input, $0.40 cached input, $40 output per million tokens, 20% under GPT-6 Astra, per OpenAI. Cached input at 5% of the fresh rate is the number I'd build around: the long system prompt you resend every call stops being the expensive part.
+---
+Gemini Tasks is now free in the US, Japan, Korea, Canada, Australia and India: it can phone businesses, compare products and check out, per Google. It discloses it's an AI on calls and asks before "Buy" unless you pick "Always allow". That toggle is the real trust decision.
+---
+Sources:
+1. https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html
+2. https://openai.com/index/introducing-gpt-6-2-astra-sol/
+3. https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/
