@@ -1,0 +1,14 @@
+$2,400 a day. That's what OpenAI says its median researcher now spends on agentic AI tools at API list prices, up from $1,500 in September. The 90th percentile is about $23,000.
+
+The agents are now the expensive input.
+
+Thursday's AI Pulse x3, two more below.
+---
+Osmo says its smell model now matches an average person at telling scents apart. The interesting part is the data: more than 10 million human labels, from a team paid to sniff things all day, because no big dataset existed. Some domains still get built the slow way.
+---
+A campaign Stormshield calls Trigram impersonates about 50 AI and blockchain brands so developers run an infostealer themselves. One route is a VS Code or Cursor extension handed over in a coding assessment. If a take-home test asks me to install something, that's the test.
+---
+Sources:
+1. https://openai.com/index/research-acceleration-jagged-frontier/
+2. https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/
+3. https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html

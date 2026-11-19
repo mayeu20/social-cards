@@ -1,0 +1,5 @@
+OpenAI's write-up of the Codex sandbox: the default blocks the network but still lets commands read files across the machine, API-key configs included. MCP servers it starts run unsandboxed by default.
+
+Admins can cap which profiles staff use. Has your org?
+---
+Source: OpenAI https://openai.com/index/inside-the-codex-sandbox/
