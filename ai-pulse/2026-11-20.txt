@@ -1,0 +1,3 @@
+OpenAI's Codex agents tracked 1,700+ ChatGPT slowdown investigations in about three months. Engineers hand-graded 100 root-cause calls: 70% held up. So a second agent now tries to disprove each one, and an engineer decides every fix. Design the reviewer first.
+---
+Source: OpenAI https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/

@@ -1,0 +1,12 @@
+SonicWall says Gen 6 firewalls get no more patches, even for critical flaws, and expects exposed units to be actively targeted as attackers use AI to find unsupported edge gear. Still one on your WAN? This week's ticket.
+
+Three for Friday's AI Pulse, two more below.
+---
+Google put Tool Retrieval in preview in the Gemini API: flag tools with defer_loading and the model sees only names and descriptions until it asks for a schema, inside the same request. Fewer input tokens is the pitch. The stable cache prefix is the part I'd test first.
+---
+Vercel launched Board, an experimental shared message board where humans and agents claim tasks, post updates and record results. Vercel says v0's software factory, rebuilt on it, now merges over 50% of PRs. Coordinating agent teams is becoming its own layer.
+---
+Sources:
+1. https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html
+2. https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/
+3. https://vercel.com/blog/introducing-vercel-board
