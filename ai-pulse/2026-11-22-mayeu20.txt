@@ -1,0 +1,12 @@
+METR's update: AI time horizons double roughly every 3.6 months on its combined suite. But on tasks needing judgment without clear feedback, agents still show worse judgment than human experts. Fast on checkable work is not taste.
+
+Today's AI Pulse x3, two more below.
+---
+Signal now blocks screenshots by default on iOS 27, and on Android when it detects an AI assistant reading the screen, to keep OS-level agents out of chats. Signal calls its own fix incomplete: files on disk stay reachable. Apps need a real opt-out from the OS, not workarounds.
+---
+NebuSec turned one request to export a malicious web page into code execution inside Meta Muse's agent container, then sent chat history and memories out with no approval prompt. All patched before publication. Approval rules that wave reads through are where I'd look first.
+---
+Sources:
+1. https://metr.org/blog/2026-11-20-q4-2026-capability-update/
+2. https://signal.org/blog/protecting-your-privacy/
+3. https://nebusec.ai/research/inside-meta-muse/

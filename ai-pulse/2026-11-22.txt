@@ -1,0 +1,5 @@
+Dragos seeded about 2 million AI prompts with trackable secrets, July to November. Attackers were inside at least three inference providers, some stolen requests were flagged Zero Data Retention, and none knew until told. Who has tested where your prompts go?
+---
+Source: Dragos https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens
+
+OpenRouter's response (3 providers off-boarded, 125 endpoints removed from ZDR eligibility): https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
