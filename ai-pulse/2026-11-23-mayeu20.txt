@@ -1,0 +1,12 @@
+CERT-In says AI-assisted attackers at Indian banks and fintechs skipped the payment APIs. They edited business records and approval links, then let the real payment flow pay out, no alert raised. The approval chain is the target.
+
+AI Pulse x3 for Monday. Next two below.
+---
+OpenAI's chief scientist published internal pretraining loss: GPT-3.5 at ~0.99 log-perplexity, GPT-4 at ~0.91, current models under 0.8, with math results starting near 0.76. He wants perplexity as a shared cross-lab safety metric. I'd back it if the eval set is shared too.
+---
+Walmart's Agent Gateway is live with Meta's Muse. The agent shops inside an Agent Profile on your Walmart account, with a spending limit you set, purchase approvals and its own order history. A separate identity with a cap is the pattern worth copying.
+---
+Sources:
+1. https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html
+2. https://openai.com/index/perplexity-and-intelligence
+3. https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday
