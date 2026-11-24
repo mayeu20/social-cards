@@ -1,0 +1,12 @@
+US data center developers have announced 100+ on-site gas plants rather than wait for the grid: over 115 GW planned, per Cleanview via MIT Tech Review. Only 4.9 GW run today. I'd watch that gap, not the headline.
+
+Tuesday's AI Pulse, three stories. Two more below.
+---
+Amazon's CISO says AI agents, handed target IPs and the goal 'obtain shell access', found a zero-day in MONAI Label and exploited it in about 11 minutes. CISA has now added it to its exploited list. Patch windows were sized for human attackers.
+---
+Google is rolling out an opt-in that connects Google Wallet to Personal Intelligence in Search's AI Mode, with Drive and the Gemini app to follow. Google says it can read, not move money. I'd wait for the promised view of what context it used before connecting a card.
+---
+Sources:
+1. https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/
+2. https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html
+3. https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/
