@@ -1,0 +1,12 @@
+24 Check Point management servers at 22 organisations, compromised by an actor GreyNoise suspects uses agentic tooling. In one network it unloaded security policies. Check Point says it's patched. I'd audit management access.
+
+AI Pulse x3 for Wednesday. Two more below.
+---
+OpenAI says GPT-6.2 drew protein binder shapes using only reasoning and code. In the lab, 35 of 322 bound their targets (10.9%). Specialized models still wrote the sequences and picked the candidates, so I read it as a hybrid result, not a replacement.
+---
+inclusionAI's open-weight Ling-3.2-air (MIT licence, 124B total, 5.5B active) passes 87.7% of criteria on a Harvey legal benchmark. Its all-pass rate after the hallucination check: 0.8%. That gap is the number I'd quote to anyone planning legal agents.
+---
+Sources:
+1. https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html
+2. https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+3. https://huggingface.co/inclusionAI/Ling-3.2-air
