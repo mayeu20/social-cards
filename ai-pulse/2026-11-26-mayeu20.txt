@@ -7,6 +7,6 @@ Two amateur astronomers used Codex and Astra to hunt exoplanets in public Kepler
 Google's patent application for "My Channel" describes AI video feeds and ads built from your viewing history, location and age, with your own avatar cast as the lead. The Verge reports it was rejected; Google could still appeal.
 ---
 Sources:
-1. https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns
+1. https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats
 2. https://openai.com/index/searching-for-distant-planets-with-astra/
 3. https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent
