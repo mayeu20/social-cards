@@ -1,0 +1,12 @@
+Chat histories from 21M+ Character.AI accounts, 2.1M+ registered to minors, are set for a bankruptcy auction on 1 Dec. 42 state AGs want it blocked. A privacy promise is only as durable as the company making it.
+
+AI Pulse x3, Thursday edition. Two more below.
+---
+Two amateur astronomers used Codex and Astra to hunt exoplanets in public Kepler and TESS data, per OpenAI. A SETI Institute astronomer independently found two of the same signals. Still unconfirmed, but that outside re-check is the step I'd copy for any agent-found result.
+---
+Google's patent application for "My Channel" describes AI video feeds and ads built from your viewing history, location and age, with your own avatar cast as the lead. The Verge reports it was rejected; Google could still appeal.
+---
+Sources:
+1. https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns
+2. https://openai.com/index/searching-for-distant-planets-with-astra/
+3. https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent

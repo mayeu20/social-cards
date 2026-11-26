@@ -1,0 +1,4 @@
+Anthropic's Claude Ship beta can approve routine pull requests under a policy file the team writes. The setup guide: start in observe mode, where it posts its decision and approves nothing until it matches your reviewers.
+How long would you shadow it before enforcing?
+---
+Source: Anthropic https://claude.com/product/claude-ship
