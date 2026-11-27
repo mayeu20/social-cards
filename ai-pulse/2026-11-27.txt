@@ -1,0 +1,3 @@
+24 hours. Switzerland's cyber agency now wants critical updates on internet-facing systems installed that fast, after confirming the country's first attacks carried out with AI agents, some on critical infrastructure. A monthly patch window is now a risk decision.
+---
+Source: Switzerland's National Cyber Security Centre https://www.bacs.admin.ch/en/26-ki-agenten-1-en

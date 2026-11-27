@@ -1,0 +1,12 @@
+/.well-known/search: Cloudflare's Search for Agents puts a search API on your domain behind one toggle, Free plan included, and advertises it in every page's head. Fewer agents crawling page by page, if your bot rules let them in.
+
+Friday's AI Pulse x3, two more below.
+---
+Ai2 interviewed 17 scientists on AI agents. Their concern goes past the right answer to the path: which sources got skipped, which files got opened. One idea: coding benchmarks that check if the agent touched files outside its authorized scope. I'd want that in every agent eval.
+---
+llama.cpp now has a public benchmark dashboard for AMD Ryzen and Radeon: weekly runs of prompt and generation speed, 10 repetitions per config, Flash Attention on and off, raw results in an open bucket. Local inference numbers you can check before you buy the box.
+---
+Sources:
+1. https://blog.cloudflare.com/search-for-agents/
+2. https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
+3. https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
