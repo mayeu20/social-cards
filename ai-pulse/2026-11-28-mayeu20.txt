@@ -1,0 +1,17 @@
+Paid tokens on OpenRouter are up 44x so far in 2026. Spend is up 7.6x, and has barely moved since early October.
+
+Cheaper inference is turning into savings, not bigger bills. I'd stop assuming AI budgets grow with usage.
+
+Saturday's AI Pulse x3. Two more below.
+---
+The UAE says it wants to transform 50% of government sectors, services and processes with agentic AI within two years. 17 partners just joined its FedAI platform.
+
+Two years is a short runway. I'd want to see how they define "transformed".
+---
+Obsidian shipped official connectors for AI agents: open-source skills so Claude, ChatGPT, Cursor, Copilot and others can work in your vault.
+
+Its help page is clear: the connectors send nothing, but any note an agent reads goes to your model. I'd give agents their own vault.
+---
+1. OpenRouter https://openrouter.ai/blog/insights/is-jevons-paradox-holding/
+2. The National https://www.thenationalnews.com/news/uae/2026/11/27/sheikh-hamdan-oversees-expansion-of-government-ai-ecosystem-as-17-partners-join/
+3. Obsidian https://obsidian.md/help/connectors
